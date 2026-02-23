@@ -1,0 +1,3315 @@
+[
+{
+"id": "w001",
+"word": "瑣末",
+"reading": "さまつ",
+"meaning_short": "細かく重要でないこと",
+"meaning_long": "本質ではない、取るに足らない細かな事柄を指す。",
+"example": "瑣末な点にこだわらず、要点を押さえよう。",
+"synonyms": ["些細", "末節"],
+"antonyms": ["重大", "本質的"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "些細",
+"distractors": ["重大", "精緻", "闊達"]
+},
+"quiz_antonyms": {
+"correct": "重大",
+"distractors": ["末節", "些細", "煩瑣"]
+}
+},
+{
+"id": "w002",
+"word": "逡巡",
+"reading": "しゅんじゅん",
+"meaning_short": "ためらって決めかねること",
+"meaning_long": "行動や判断を前にして迷い、決断できずにいること。",
+"example": "彼は返答を前に逡巡し、しばらく黙り込んだ。",
+"synonyms": ["躊躇", "ためらい"],
+"antonyms": ["即断", "決行"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "躊躇",
+"distractors": ["決行", "斟酌", "収斂"]
+},
+"quiz_antonyms": {
+"correct": "即断",
+"distractors": ["躊躇", "ためらい", "遅延"]
+}
+},
+{
+"id": "w003",
+"word": "斟酌",
+"reading": "しんしゃく",
+"meaning_short": "事情をくんで配慮すること",
+"meaning_long": "相手の事情や背景を考えに入れて判断すること。",
+"example": "相手の事情を斟酌したうえで結論を出した。",
+"synonyms": ["配慮", "考慮"],
+"antonyms": ["無視", "軽視"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "配慮",
+"distractors": ["駁論", "牽制", "執拗"]
+},
+"quiz_antonyms": {
+"correct": "無視",
+"distractors": ["考慮", "配慮", "仲介"]
+}
+},
+{
+"id": "w004",
+"word": "乖離",
+"reading": "かいり",
+"meaning_short": "かけ離れて一致しないこと",
+"meaning_long": "本来近いはずのものの間に大きなずれがあること。",
+"example": "理想と現実の乖離に悩む若者は多い。",
+"synonyms": ["隔たり", "ずれ"],
+"antonyms": ["一致", "合致"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "関係"],
+"quiz_synonyms": {
+"correct": "ずれ",
+"distractors": ["一致", "収束", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "一致",
+"distractors": ["隔たり", "ずれ", "拡散"]
+}
+},
+{
+"id": "w005",
+"word": "暫定",
+"reading": "ざんてい",
+"meaning_short": "正式前の仮の決定",
+"meaning_long": "最終決定までの間、当面の措置として定めること。",
+"example": "暫定案として来週まで運用してみる。",
+"synonyms": ["仮", "一時的"],
+"antonyms": ["確定", "恒久"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "制度"],
+"quiz_synonyms": {
+"correct": "一時的",
+"distractors": ["恒久", "精密", "逐次"]
+},
+"quiz_antonyms": {
+"correct": "確定",
+"distractors": ["仮", "一時的", "保留"]
+}
+},
+{
+"id": "w006",
+"word": "精緻",
+"reading": "せいち",
+"meaning_short": "細かく正確で緻密なこと",
+"meaning_long": "細部まで丁寧に作り込まれ、正確さが高いこと。",
+"example": "精緻な分析が提案の説得力を高めた。",
+"synonyms": ["緻密", "精密"],
+"antonyms": ["粗雑", "大雑把"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "緻密",
+"distractors": ["粗雑", "豪奢", "静謐"]
+},
+"quiz_antonyms": {
+"correct": "粗雑",
+"distractors": ["精密", "緻密", "厳格"]
+}
+},
+{
+"id": "w007",
+"word": "辟易",
+"reading": "へきえき",
+"meaning_short": "うんざりして嫌になること",
+"meaning_long": "面倒さや不快さで、もうたくさんだと感じること。",
+"example": "度重なる遅延連絡に辟易してしまった。",
+"synonyms": ["閉口", "うんざり"],
+"antonyms": ["歓迎", "満足"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "閉口",
+"distractors": ["歓迎", "感嘆", "斟酌"]
+},
+"quiz_antonyms": {
+"correct": "歓迎",
+"distractors": ["閉口", "うんざり", "憔悴"]
+}
+},
+{
+"id": "w008",
+"word": "歪曲",
+"reading": "わいきょく",
+"meaning_short": "事実をねじ曲げること",
+"meaning_long": "内容や事実を意図的に変えて伝えること。",
+"example": "発言の一部だけを切り取ると歪曲になる。",
+"synonyms": ["曲解", "改変"],
+"antonyms": ["是正", "正確化"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "曲解",
+"distractors": ["是正", "示唆", "収斂"]
+},
+"quiz_antonyms": {
+"correct": "是正",
+"distractors": ["曲解", "改変", "誇張"]
+}
+},
+{
+"id": "w009",
+"word": "牽制",
+"reading": "けんせい",
+"meaning_short": "相手の動きを抑えること",
+"meaning_long": "相手が自由に動けないように圧力をかけること。",
+"example": "価格改定の発表で競合の動きを牽制した。",
+"synonyms": ["抑止", "抑制"],
+"antonyms": ["放任", "容認"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "抑止",
+"distractors": ["容認", "仲介", "斡旋"]
+},
+"quiz_antonyms": {
+"correct": "放任",
+"distractors": ["抑止", "抑制", "拘束"]
+}
+},
+{
+"id": "w010",
+"word": "恬淡",
+"reading": "てんたん",
+"meaning_short": "名利に執着しないさま",
+"meaning_long": "欲や名声にとらわれず、あっさりしているさま。",
+"example": "彼は昇進にも恬淡としていて態度が変わらない。",
+"synonyms": ["淡泊", "無欲"],
+"antonyms": ["貪欲", "執着"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "淡泊",
+"distractors": ["豪奢", "執拗", "剛胆"]
+},
+"quiz_antonyms": {
+"correct": "貪欲",
+"distractors": ["無欲", "淡泊", "静謐"]
+}
+},
+{
+"id": "w011",
+"word": "闊達",
+"reading": "かったつ",
+"meaning_short": "おおらかで活発なさま",
+"meaning_long": "こだわりが少なく、のびのびと活気があるさま。",
+"example": "会議では若手も交えた闊達な議論が続いた。",
+"synonyms": ["快活", "おおらか"],
+"antonyms": ["狭量", "陰鬱"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "快活",
+"distractors": ["陰鬱", "精緻", "遅鈍"]
+},
+"quiz_antonyms": {
+"correct": "狭量",
+"distractors": ["快活", "おおらか", "寛容"]
+}
+},
+{
+"id": "w012",
+"word": "拘泥",
+"reading": "こうでい",
+"meaning_short": "細かなことにこだわること",
+"meaning_long": "本質でない点にとらわれ、柔軟さを失うこと。",
+"example": "形式に拘泥せず、目的を確認しよう。",
+"synonyms": ["固執", "執着"],
+"antonyms": ["柔軟", "達観"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "思考"],
+"quiz_synonyms": {
+"correct": "固執",
+"distractors": ["柔軟", "斟酌", "闊達"]
+},
+"quiz_antonyms": {
+"correct": "柔軟",
+"distractors": ["固執", "執着", "頑固"]
+}
+},
+{
+"id": "w013",
+"word": "執拗",
+"reading": "しつよう",
+"meaning_short": "しつこく粘ること",
+"meaning_long": "同じことを繰り返し、強く迫り続けるさま。",
+"example": "記者の執拗な質問に広報が対応した。",
+"synonyms": ["しつこい", "粘着的"],
+"antonyms": ["淡泊", "あっさり"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "しつこい",
+"distractors": ["あっさり", "果敢", "端的"]
+},
+"quiz_antonyms": {
+"correct": "淡泊",
+"distractors": ["粘着的", "しつこい", "継続的"]
+}
+},
+{
+"id": "w014",
+"word": "浅薄",
+"reading": "せんぱく",
+"meaning_short": "考えが浅く薄っぺらなこと",
+"meaning_long": "理解や思考が表面的で、深みがないこと。",
+"example": "浅薄な理解のまま議論を進めるのは危険だ。",
+"synonyms": ["軽薄", "表層的"],
+"antonyms": ["深遠", "深奥"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "軽薄",
+"distractors": ["深遠", "精緻", "静穏"]
+},
+"quiz_antonyms": {
+"correct": "深遠",
+"distractors": ["軽薄", "表層的", "曖昧"]
+}
+},
+{
+"id": "w015",
+"word": "冷厳",
+"reading": "れいげん",
+"meaning_short": "冷たく厳しいさま",
+"meaning_long": "感情を交えず、冷たく厳格な態度や雰囲気のこと。",
+"example": "冷厳な事実を前にして計画を見直した。",
+"synonyms": ["冷酷", "厳格"],
+"antonyms": ["温和", "寛容"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "厳格",
+"distractors": ["温和", "静謐", "恬淡"]
+},
+"quiz_antonyms": {
+"correct": "温和",
+"distractors": ["冷酷", "厳格", "峻烈"]
+}
+},
+{
+"id": "w016",
+"word": "剛胆",
+"reading": "ごうたん",
+"meaning_short": "度胸があり動じないこと",
+"meaning_long": "大胆で恐れず、物事に動じない強さがあること。",
+"example": "剛胆な判断が局面を打開した。",
+"synonyms": ["豪胆", "大胆"],
+"antonyms": ["小心", "臆病"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "大胆",
+"distractors": ["小心", "慎重", "精密"]
+},
+"quiz_antonyms": {
+"correct": "臆病",
+"distractors": ["豪胆", "大胆", "勇猛"]
+}
+},
+{
+"id": "w017",
+"word": "億劫",
+"reading": "おっくう",
+"meaning_short": "面倒で気が進まないこと",
+"meaning_long": "何かをするのが面倒で、やる気が起きないこと。",
+"example": "雨の日は外出が億劫になりがちだ。",
+"synonyms": ["面倒", "煩わしい"],
+"antonyms": ["積極的", "意欲的"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "面倒",
+"distractors": ["意欲的", "快活", "精緻"]
+},
+"quiz_antonyms": {
+"correct": "意欲的",
+"distractors": ["面倒", "煩わしい", "怠惰"]
+}
+},
+{
+"id": "w018",
+"word": "破綻",
+"reading": "はたん",
+"meaning_short": "成り立たなくなること",
+"meaning_long": "計画や理屈、関係などが崩れて成立しないこと。",
+"example": "前提が崩れると議論全体が破綻する。",
+"synonyms": ["崩壊", "行き詰まり"],
+"antonyms": ["成立", "整合"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "崩壊",
+"distractors": ["成立", "収束", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "成立",
+"distractors": ["崩壊", "行き詰まり", "混乱"]
+}
+},
+{
+"id": "w019",
+"word": "終焉",
+"reading": "しゅうえん",
+"meaning_short": "物事の終わり",
+"meaning_long": "ある時代や事柄が終わること、またその結末。",
+"example": "長く続いた制度は今年で終焉を迎える。",
+"synonyms": ["終末", "終結"],
+"antonyms": ["開始", "端緒"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "時間"],
+"quiz_synonyms": {
+"correct": "終結",
+"distractors": ["開始", "収斂", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "開始",
+"distractors": ["終末", "終結", "消滅"]
+}
+},
+{
+"id": "w020",
+"word": "謳歌",
+"reading": "おうか",
+"meaning_short": "恵まれた状態を楽しむこと",
+"meaning_long": "よい境遇や自由を十分に味わい楽しむこと。",
+"example": "学生時代にしかない自由を謳歌したい。",
+"synonyms": ["満喫", "享受"],
+"antonyms": ["忍苦", "抑圧"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "満喫",
+"distractors": ["抑圧", "憔悴", "逡巡"]
+},
+"quiz_antonyms": {
+"correct": "抑圧",
+"distractors": ["満喫", "享受", "歓喜"]
+}
+},
+{
+"id": "w021",
+"word": "静謐",
+"reading": "せいひつ",
+"meaning_short": "静かで穏やかなこと",
+"meaning_long": "騒がしさがなく、落ち着いて穏やかな状態のこと。",
+"example": "早朝の図書館には静謐な空気が漂っていた。",
+"synonyms": ["静穏", "平穏"],
+"antonyms": ["喧騒", "騒然"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "平穏",
+"distractors": ["騒然", "剛胆", "豪奢"]
+},
+"quiz_antonyms": {
+"correct": "喧騒",
+"distractors": ["平穏", "静穏", "静寂"]
+}
+},
+{
+"id": "w022",
+"word": "憔悴",
+"reading": "しょうすい",
+"meaning_short": "やつれて衰えること",
+"meaning_long": "心身の疲れで、やせ細り弱ってしまうこと。",
+"example": "連日の看病で彼はひどく憔悴していた。",
+"synonyms": ["疲弊", "やつれ"],
+"antonyms": ["壮健", "元気"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "疲弊",
+"distractors": ["壮健", "快活", "謳歌"]
+},
+"quiz_antonyms": {
+"correct": "壮健",
+"distractors": ["疲弊", "やつれ", "消耗"]
+}
+},
+{
+"id": "w023",
+"word": "媒介",
+"reading": "ばいかい",
+"meaning_short": "間に入ってつなぐこと",
+"meaning_long": "二者の間に入り、伝達や関係を取り持つこと。",
+"example": "その菌は昆虫を媒介して広がるとされる。",
+"synonyms": ["仲介", "仲立ち"],
+"antonyms": ["直接", "断絶"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "関係"],
+"quiz_synonyms": {
+"correct": "仲介",
+"distractors": ["断絶", "収束", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "直接",
+"distractors": ["仲介", "仲立ち", "連携"]
+}
+},
+{
+"id": "w024",
+"word": "収斂",
+"reading": "しゅうれん",
+"meaning_short": "一つにまとまること",
+"meaning_long": "広がっていたものが次第に集まり一つになること。",
+"example": "議論は最後に一つの結論へ収斂した。",
+"synonyms": ["収束", "集約"],
+"antonyms": ["拡散", "発散"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "変化"],
+"quiz_synonyms": {
+"correct": "収束",
+"distractors": ["拡散", "媒介", "逐次"]
+},
+"quiz_antonyms": {
+"correct": "拡散",
+"distractors": ["収束", "集約", "合致"]
+}
+},
+{
+"id": "w025",
+"word": "豪奢",
+"reading": "ごうしゃ",
+"meaning_short": "非常にぜいたくで華やか",
+"meaning_long": "ぜいたくで見た目も華やかなさまを表す語。",
+"example": "豪奢な装飾より機能性を重視したい。",
+"synonyms": ["華美", "贅沢"],
+"antonyms": ["質素", "簡素"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "贅沢",
+"distractors": ["質素", "精緻", "剛胆"]
+},
+"quiz_antonyms": {
+"correct": "質素",
+"distractors": ["華美", "贅沢", "華麗"]
+}
+},
+{
+"id": "w026",
+"word": "果敢",
+"reading": "かかん",
+"meaning_short": "勇気を持ち大胆に行うさま",
+"meaning_long": "ためらわずに思い切って行動する勇ましさがあるさま。",
+"example": "果敢な挑戦が新規事業の突破口になった。",
+"synonyms": ["大胆", "勇猛"],
+"antonyms": ["臆病", "逡巡"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "勇猛",
+"distractors": ["臆病", "慎重", "静穏"]
+},
+"quiz_antonyms": {
+"correct": "臆病",
+"distractors": ["大胆", "勇猛", "豪胆"]
+}
+},
+{
+"id": "w027",
+"word": "諧謔",
+"reading": "かいぎゃく",
+"meaning_short": "気の利いたユーモア",
+"meaning_long": "場を和ませる、機知に富んだしゃれや冗談のこと。",
+"example": "重い空気を諧謔でほぐす司会が頼もしかった。",
+"synonyms": ["ユーモア", "洒落"],
+"antonyms": ["生真面目", "無味乾燥"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "ユーモア",
+"distractors": ["無味乾燥", "駁論", "冷厳"]
+},
+"quiz_antonyms": {
+"correct": "無味乾燥",
+"distractors": ["ユーモア", "洒落", "快活"]
+}
+},
+{
+"id": "w028",
+"word": "逐次",
+"reading": "ちくじ",
+"meaning_short": "順を追って次々に",
+"meaning_long": "一度にではなく、順番に少しずつ進めるさま。",
+"example": "結果はまとまり次第、逐次共有します。",
+"synonyms": ["順次", "段階的"],
+"antonyms": ["一挙", "同時"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "進行"],
+"quiz_synonyms": {
+"correct": "順次",
+"distractors": ["同時", "収束", "断続的"]
+},
+"quiz_antonyms": {
+"correct": "一挙",
+"distractors": ["順次", "段階的", "緩慢"]
+}
+},
+{
+"id": "w029",
+"word": "直截",
+"reading": "ちょくせつ",
+"meaning_short": "回りくどくなく率直なこと",
+"meaning_long": "遠回しな表現を避け、直接はっきり述べること。",
+"example": "問題点を直截に伝えたことで議論が進んだ。",
+"synonyms": ["率直", "端的"],
+"antonyms": ["婉曲", "迂遠"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "率直",
+"distractors": ["婉曲", "諧謔", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "婉曲",
+"distractors": ["率直", "端的", "明快"]
+}
+},
+{
+"id": "w030",
+"word": "示唆",
+"reading": "しさ",
+"meaning_short": "それとなく示すこと",
+"meaning_long": "直接は言わずに、相手に気づかせるように示すこと。",
+"example": "調査結果は制度改正の必要性を示唆している。",
+"synonyms": ["暗示", "ほのめかし"],
+"antonyms": ["明言", "断言"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "伝達"],
+"quiz_synonyms": {
+"correct": "暗示",
+"distractors": ["断言", "媒介", "逐次"]
+},
+"quiz_antonyms": {
+"correct": "明言",
+"distractors": ["暗示", "ほのめかし", "婉曲"]
+}
+},
+{
+    "antonyms": ["同意", "支持"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "議論"],
+    "quiz_synonyms": {
+      "correct": "反駁",
+      "distractors": ["支持", "示唆", "諧謔"]
+    },
+    "quiz_antonyms": {
+      "correct": "支持",
+      "distractors": ["反駁", "論駁", "批判"]
+    }
+  },
+  {
+    "id": "w056",
+    "word": "跋扈",
+    "reading": "ばっこ",
+    "meaning_short": "勢力をふるってのさばること",
+    "meaning_long": "好ましくない勢力が幅を利かせてはびこること。",
+    "example": "偽情報が跋扈する環境では確認が重要だ。",
+    "synonyms": ["横行", "はびこる"],
+    "antonyms": ["沈静", "衰退"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "社会"],
+    "quiz_synonyms": {
+      "correct": "横行",
+      "distractors": ["沈静", "静穏", "収斂"]
+    },
+    "quiz_antonyms": {
+      "correct": "沈静",
+      "distractors": ["横行", "はびこる", "蔓延"]
+    }
+  },
+  {
+    "id": "w057",
+    "word": "遁辞",
+    "reading": "とんじ",
+    "meaning_short": "言い逃れのことば",
+    "meaning_long": "責任追及などから逃れるための言い訳のこと。",
+    "example": "失敗の原因を遁辞でごまかしてはならない。",
+    "synonyms": ["言い訳", "弁解"],
+    "antonyms": ["明言", "本音"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "伝達"],
+    "quiz_synonyms": {
+      "correct": "言い訳",
+      "distractors": ["明言", "示唆", "駁論"]
+    },
+    "quiz_antonyms": {
+      "correct": "明言",
+      "distractors": ["言い訳", "弁解", "婉曲"]
+    }
+  },
+  {
+    "id": "w058",
+    "word": "昂然",
+    "reading": "こうぜん",
+    "meaning_short": "誇らしく堂々としたさま",
+    "meaning_long": "自信や誇りを持ち、堂々としている様子を表す。",
+    "example": "結果に恥じない努力をした彼は昂然としていた。",
+    "synonyms": ["堂々", "毅然"],
+    "antonyms": ["卑屈", "萎縮"],
+    "difficulty": 5,
+    "tags": ["SPI頻出語彙", "語彙", "性質"],
+    "quiz_synonyms": {
+      "correct": "毅然",
+      "distractors": ["卑屈", "静謐", "恬淡"]
+    },
+    "quiz_antonyms": {
+      "correct": "卑屈",
+      "distractors": ["堂々", "毅然", "強気"]
+    }
+  },
+  {
+    "id": "w059",
+    "word": "僭越",
+    "reading": "せんえつ",
+    "meaning_short": "身の程を越えて出すぎること",
+    "meaning_long": "自分の立場を超えて差し出がましく振る舞うこと。",
+    "example": "僭越ながら、改善案を一つ提案いたします。",
+    "synonyms": ["出過ぎ", "越権"],
+    "antonyms": ["謙虚", "分相応"],
+    "difficulty": 5,
+    "tags": ["SPI頻出語彙", "語彙", "対人"],
+    "quiz_synonyms": {
+      "correct": "越権",
+      "distractors": ["謙虚", "斡旋", "端正"]
+    },
+    "quiz_antonyms": {
+      "correct": "謙虚",
+      "distractors": ["出過ぎ", "越権", "高慢"]
+    }
+  },
+  {
+    "id": "w060",
+    "word": "斡旋",
+    "reading": "あっせん",
+    "meaning_short": "間に入って取り持つこと",
+    "meaning_long": "当事者の間に入り、話をまとめるよう世話すること。",
+    "example": "担当者が企業との面談を斡旋してくれた。",
+    "synonyms": ["仲介", "周旋"],
+    "antonyms": ["放置", "断絶"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "対人"],
+    "quiz_synonyms": {
+      "correct": "周旋",
+      "distractors": ["断絶", "収斂", "遁辞"]
+    },
+    "quiz_antonyms": {
+      "correct": "断絶",
+      "distractors": ["仲介", "周旋", "連携"]
+    }
+  },
+  {
+"id": "w061",
+"word": "頓着",
+"reading": "とんちゃく",
+"meaning_short": "気にかけてこだわること",
+"meaning_long": "物事を心に留め、気にしてこだわることをいう。",
+"example": "細かな体裁に頓着しすぎると作業が進まない。",
+"synonyms": ["介意", "気掛かり"],
+"antonyms": ["無頓着", "平然"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "心理"],
+"quiz_synonyms": {
+"correct": "介意",
+"distractors": ["平然", "快活", "収束"]
+},
+"quiz_antonyms": {
+"correct": "無頓着",
+"distractors": ["介意", "気掛かり", "執着"]
+}
+},
+{
+"id": "w062",
+"word": "詮索",
+"reading": "せんさく",
+"meaning_short": "細かく探り調べること",
+"meaning_long": "事情や内情を細かく問いただし、探ること。",
+"example": "私生活を詮索しすぎるのは礼を欠く。",
+"synonyms": ["穿鑿", "探索"],
+"antonyms": ["看過", "黙認"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "穿鑿",
+"distractors": ["看過", "斡旋", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "看過",
+"distractors": ["穿鑿", "探索", "追及"]
+}
+},
+{
+"id": "w063",
+"word": "愛惜",
+"reading": "あいせき",
+"meaning_short": "大切に思い惜しむこと",
+"meaning_long": "愛し大事に思って、失うことを惜しむ気持ち。",
+"example": "古い道具を愛惜し、丁寧に使い続けた。",
+"synonyms": ["惜愛", "愛護"],
+"antonyms": ["軽侮", "粗略"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "愛護",
+"distractors": ["粗略", "誹謗", "冷厳"]
+},
+"quiz_antonyms": {
+"correct": "粗略",
+"distractors": ["惜愛", "愛護", "大切"]
+}
+},
+{
+"id": "w064",
+"word": "随喜",
+"reading": "ずいき",
+"meaning_short": "人の善行や幸せを喜ぶこと",
+"meaning_long": "他人の善行や幸福を、自分事のように喜ぶこと。",
+"example": "仲間の合格を随喜して祝福の言葉を送った。",
+"synonyms": ["共感喜悦", "祝福"],
+"antonyms": ["嫉妬", "妬み"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "祝福",
+"distractors": ["嫉妬", "憔悴", "詮索"]
+},
+"quiz_antonyms": {
+"correct": "嫉妬",
+"distractors": ["祝福", "共感喜悦", "称賛"]
+}
+},
+{
+"id": "w065",
+"word": "高邁",
+"reading": "こうまい",
+"meaning_short": "志や理想が高く立派",
+"meaning_long": "志や理想の水準が高く、立派であるさま。",
+"example": "高邁な理念を掲げるだけでなく実行も伴った。",
+"synonyms": ["高尚", "崇高"],
+"antonyms": ["卑俗", "低劣"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "崇高",
+"distractors": ["低劣", "豪奢", "周到"]
+},
+"quiz_antonyms": {
+"correct": "卑俗",
+"distractors": ["高尚", "崇高", "高潔"]
+}
+},
+{
+"id": "w066",
+"word": "萎靡",
+"reading": "いび",
+"meaning_short": "気力がなえてしおれること",
+"meaning_long": "勢いや気力が衰え、元気を失っている状態。",
+"example": "連敗が続き、チーム全体が萎靡していた。",
+"synonyms": ["衰微", "沈滞"],
+"antonyms": ["昂揚", "活気"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "沈滞",
+"distractors": ["昂揚", "闊達", "収斂"]
+},
+"quiz_antonyms": {
+"correct": "昂揚",
+"distractors": ["衰微", "沈滞", "低迷"]
+}
+},
+{
+"id": "w067",
+"word": "頽廃",
+"reading": "たいはい",
+"meaning_short": "気風や秩序がすたれること",
+"meaning_long": "道徳や風紀、制度などが衰え乱れること。",
+"example": "頽廃した空気を立て直すため規律を見直した。",
+"synonyms": ["退廃", "荒廃"],
+"antonyms": ["再興", "振興"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "社会"],
+"quiz_synonyms": {
+"correct": "荒廃",
+"distractors": ["再興", "静謐", "精緻"]
+},
+"quiz_antonyms": {
+"correct": "再興",
+"distractors": ["退廃", "荒廃", "崩壊"]
+}
+},
+{
+"id": "w068",
+"word": "汗顔",
+"reading": "かんがん",
+"meaning_short": "恥ずかしく顔が熱くなること",
+"meaning_long": "自分の未熟さなどを恥じて、面目ない思いをすること。",
+"example": "初歩的なミスを指摘され汗顔の至りだった。",
+"synonyms": ["羞恥", "面目ない思い"],
+"antonyms": ["平然", "自負"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "羞恥",
+"distractors": ["自負", "闊達", "欣喜"]
+},
+"quiz_antonyms": {
+"correct": "平然",
+"distractors": ["羞恥", "面目ない思い", "狼狽"]
+}
+},
+{
+"id": "w069",
+"word": "逞しい",
+"reading": "たくましい",
+"meaning_short": "力強くしっかりしている",
+"meaning_long": "体や精神、発想などが力強く頼もしいさま。",
+"example": "逆境でも前に進む姿勢が逞しい。",
+"synonyms": ["力強い", "剛健"],
+"antonyms": ["か弱い", "脆弱"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "力強い",
+"distractors": ["脆弱", "精巧", "静穏"]
+},
+"quiz_antonyms": {
+"correct": "脆弱",
+"distractors": ["力強い", "剛健", "堅牢"]
+}
+},
+{
+"id": "w070",
+"word": "忠心",
+"reading": "ちゅうしん",
+"meaning_short": "忠実でまごころある心",
+"meaning_long": "相手や組織に対して誠実に尽くす心のこと。",
+"example": "忠心からの進言だったからこそ受け入れられた。",
+"synonyms": ["忠誠", "忠義"],
+"antonyms": ["背信", "反意"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "忠誠",
+"distractors": ["背信", "斡旋", "詮索"]
+},
+"quiz_antonyms": {
+"correct": "背信",
+"distractors": ["忠誠", "忠義", "誠実"]
+}
+},
+{
+"id": "w071",
+"word": "脆弱",
+"reading": "ぜいじゃく",
+"meaning_short": "もろく弱いこと",
+"meaning_long": "強度や体制が弱く、壊れやすい・崩れやすいこと。",
+"example": "脆弱な体制のまま運用を拡大するのは危険だ。",
+"synonyms": ["脆い", "軟弱"],
+"antonyms": ["強靭", "堅牢"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "軟弱",
+"distractors": ["堅牢", "闊達", "精緻"]
+},
+"quiz_antonyms": {
+"correct": "堅牢",
+"distractors": ["脆い", "軟弱", "不安定"]
+}
+},
+{
+"id": "w072",
+"word": "豪胆",
+"reading": "ごうたん",
+"meaning_short": "物事を恐れぬ大胆さ",
+"meaning_long": "細事に動じず、大きく構えて大胆に振る舞うこと。",
+"example": "豪胆な采配が流れを変えた。",
+"synonyms": ["大胆", "剛胆"],
+"antonyms": ["小心", "臆病"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "剛胆",
+"distractors": ["小心", "慎重", "周到"]
+},
+"quiz_antonyms": {
+"correct": "小心",
+"distractors": ["大胆", "剛胆", "果敢"]
+}
+},
+{
+"id": "w073",
+"word": "頓狂",
+"reading": "とんきょう",
+"meaning_short": "調子外れで突飛なこと",
+"meaning_long": "場にそぐわず、調子の外れた言動や様子のこと。",
+"example": "頓狂な声が会議室に響いて皆が驚いた。",
+"synonyms": ["突飛", "奇矯"],
+"antonyms": ["穏当", "常識的"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "突飛",
+"distractors": ["穏当", "端正", "静謐"]
+},
+"quiz_antonyms": {
+"correct": "穏当",
+"distractors": ["突飛", "奇矯", "奇抜"]
+}
+},
+{
+"id": "w074",
+"word": "該博",
+"reading": "がいはく",
+"meaning_short": "知識が広く豊かなこと",
+"meaning_long": "多くの分野にわたり知識が豊富であること。",
+"example": "該博な知識に支えられた解説は説得力がある。",
+"synonyms": ["博識", "多識"],
+"antonyms": ["寡聞", "無知"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "知識"],
+"quiz_synonyms": {
+"correct": "博識",
+"distractors": ["無知", "精緻", "周到"]
+},
+"quiz_antonyms": {
+"correct": "寡聞",
+"distractors": ["博識", "多識", "博学"]
+}
+},
+{
+"id": "w075",
+"word": "簡素",
+"reading": "かんそ",
+"meaning_short": "無駄がなく質素なこと",
+"meaning_long": "飾りや無駄を省き、質素でシンプルなさま。",
+"example": "発表資料は簡素な構成のほうが伝わりやすい。",
+"synonyms": ["質素", "簡潔"],
+"antonyms": ["華美", "繁雑"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "質素",
+"distractors": ["華美", "豪胆", "頓狂"]
+},
+"quiz_antonyms": {
+"correct": "華美",
+"distractors": ["質素", "簡潔", "素朴"]
+}
+},
+{
+"id": "w076",
+"word": "冗長",
+"reading": "じょうちょう",
+"meaning_short": "無駄に長く回りくどいこと",
+"meaning_long": "内容に対して長すぎ、くどく感じられること。",
+"example": "説明が冗長にならないよう要点を絞った。",
+"synonyms": ["長たらしい", "くどい"],
+"antonyms": ["簡潔", "端的"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "くどい",
+"distractors": ["簡潔", "率直", "精緻"]
+},
+"quiz_antonyms": {
+"correct": "簡潔",
+"distractors": ["長たらしい", "くどい", "冗漫"]
+}
+},
+{
+"id": "w077",
+"word": "婉曲",
+"reading": "えんきょく",
+"meaning_short": "遠回しにやわらかく表すこと",
+"meaning_long": "直接的表現を避け、やわらかく遠回しに述べること。",
+"example": "断りにくい依頼は婉曲に伝えることもある。",
+"synonyms": ["遠回し", "曲言"],
+"antonyms": ["直截", "明言"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "遠回し",
+"distractors": ["明言", "駁論", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "直截",
+"distractors": ["遠回し", "曲言", "婉言"]
+}
+},
+{
+"id": "w078",
+"word": "迂遠",
+"reading": "うえん",
+"meaning_short": "遠回しで要領を得ないこと",
+"meaning_long": "言い方ややり方が遠回りで、要点に届きにくいこと。",
+"example": "説明が迂遠なので結論から話してほしい。",
+"synonyms": ["遠回り", "回りくどい"],
+"antonyms": ["端的", "簡明"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "回りくどい",
+"distractors": ["簡明", "直截", "剛胆"]
+},
+"quiz_antonyms": {
+"correct": "端的",
+"distractors": ["遠回り", "回りくどい", "冗長"]
+}
+},
+{
+"id": "w079",
+"word": "明晰",
+"reading": "めいせき",
+"meaning_short": "はっきりしていて明らか",
+"meaning_long": "考えや意識、説明などが明確で分かりやすいこと。",
+"example": "明晰な論理で複雑な課題を整理していた。",
+"synonyms": ["明快", "明瞭"],
+"antonyms": ["朦朧", "曖昧"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "明快",
+"distractors": ["曖昧", "冗長", "豪奢"]
+},
+"quiz_antonyms": {
+"correct": "曖昧",
+"distractors": ["明快", "明瞭", "鮮明"]
+}
+},
+{
+"id": "w080",
+"word": "鮮明",
+"reading": "せんめい",
+"meaning_short": "色や印象がくっきり明らか",
+"meaning_long": "色彩や輪郭、印象などがはっきりしていること。",
+"example": "当時の記憶が今も鮮明によみがえる。",
+"synonyms": ["明瞭", "くっきり"],
+"antonyms": ["不鮮明", "ぼんやり"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "明瞭",
+"distractors": ["ぼんやり", "静穏", "萎靡"]
+},
+"quiz_antonyms": {
+"correct": "ぼんやり",
+"distractors": ["明瞭", "くっきり", "鮮烈"]
+}
+},
+{
+"id": "w081",
+"word": "無頓着",
+"reading": "むとんちゃく",
+"meaning_short": "気にかけずこだわらないこと",
+"meaning_long": "本来気にすべきことにも注意を払わないこと。",
+"example": "彼は服装には無頓着だが仕事は丁寧だ。",
+"synonyms": ["無関心", "平然"],
+"antonyms": ["頓着", "介意"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "心理"],
+"quiz_synonyms": {
+"correct": "無関心",
+"distractors": ["介意", "斟酌", "配慮"]
+},
+"quiz_antonyms": {
+"correct": "頓着",
+"distractors": ["無関心", "平然", "放任"]
+}
+},
+{
+"id": "w082",
+"word": "喧騒",
+"reading": "けんそう",
+"meaning_short": "騒がしく落ち着かないこと",
+"meaning_long": "人や物音が多く、騒がしくざわついた状態。",
+"example": "喧騒を離れて静かな場所で集中したい。",
+"synonyms": ["騒然", "騒音"],
+"antonyms": ["静謐", "静穏"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "騒然",
+"distractors": ["静穏", "精緻", "端正"]
+},
+"quiz_antonyms": {
+"correct": "静謐",
+"distractors": ["騒然", "騒音", "混雑"]
+}
+},
+{
+"id": "w083",
+"word": "寛容",
+"reading": "かんよう",
+"meaning_short": "心が広く人を許すこと",
+"meaning_long": "他人の過失や違いを受け入れ、むやみに責めないこと。",
+"example": "多様な意見に寛容な組織は強い。",
+"synonyms": ["包容", "温和"],
+"antonyms": ["狭量", "苛烈"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "包容",
+"distractors": ["狭量", "牽制", "誹謗"]
+},
+"quiz_antonyms": {
+"correct": "狭量",
+"distractors": ["包容", "温和", "慈愛"]
+}
+},
+{
+"id": "w084",
+"word": "厳密",
+"reading": "げんみつ",
+"meaning_short": "少しの誤りも許さないさま",
+"meaning_long": "基準や論理に照らして、正確で隙がないこと。",
+"example": "数値の比較は条件をそろえて厳密に行うべきだ。",
+"synonyms": ["精密", "厳正"],
+"antonyms": ["大雑把", "粗略"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "厳正",
+"distractors": ["大雑把", "豪胆", "快活"]
+},
+"quiz_antonyms": {
+"correct": "大雑把",
+"distractors": ["精密", "厳正", "周到"]
+}
+},
+{
+"id": "w085",
+"word": "周到",
+"reading": "しゅうとう",
+"meaning_short": "細部まで行き届いていること",
+"meaning_long": "準備や配慮が細かい点まで十分に行き届くこと。",
+"example": "周到な準備のおかげで発表は滞りなく終わった。",
+"synonyms": ["入念", "綿密"],
+"antonyms": ["粗忽", "杜撰"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "綿密",
+"distractors": ["杜撰", "果敢", "逐次"]
+},
+"quiz_antonyms": {
+"correct": "杜撰",
+"distractors": ["入念", "綿密", "慎重"]
+}
+},
+{
+"id": "w086",
+"word": "杜撰",
+"reading": "ずさん",
+"meaning_short": "いい加減で粗いこと",
+"meaning_long": "仕事や管理が雑で、精度や配慮に欠けること。",
+"example": "杜撰な管理体制では再発を防げない。",
+"synonyms": ["粗雑", "いい加減"],
+"antonyms": ["周到", "綿密"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "粗雑",
+"distractors": ["綿密", "精緻", "静謐"]
+},
+"quiz_antonyms": {
+"correct": "周到",
+"distractors": ["粗雑", "いい加減", "拙速"]
+}
+},
+{
+"id": "w087",
+"word": "拙速",
+"reading": "せっそく",
+"meaning_short": "出来は悪いが仕事が速いこと",
+"meaning_long": "質は十分でないが、手早く仕上げることを重んじるさま。",
+"example": "初期段階は拙速でも試作を回す価値がある。",
+"synonyms": ["性急", "早仕上げ"],
+"antonyms": ["巧遅", "入念"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "性急",
+"distractors": ["入念", "周到", "綿密"]
+},
+"quiz_antonyms": {
+"correct": "巧遅",
+"distractors": ["性急", "早仕上げ", "迅速"]
+}
+},
+{
+"id": "w088",
+"word": "温存",
+"reading": "おんぞん",
+"meaning_short": "使わず残して保つこと",
+"meaning_long": "資源や力をすぐ使わず、保ちながら残しておくこと。",
+"example": "主力を温存して終盤に勝負をかけた。",
+"synonyms": ["保持", "留保"],
+"antonyms": ["放出", "消耗"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "留保",
+"distractors": ["放出", "収斂", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "放出",
+"distractors": ["保持", "留保", "保存"]
+}
+},
+{
+"id": "w089",
+"word": "看過",
+"reading": "かんか",
+"meaning_short": "見過ごして問題にしないこと",
+"meaning_long": "問題や欠点を見ても、取り上げずそのままにすること。",
+"example": "小さな異変を看過すると後で大きな事故になる。",
+"synonyms": ["見逃し", "黙過"],
+"antonyms": ["追及", "精査"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "黙過",
+"distractors": ["追及", "詮索", "斟酌"]
+},
+"quiz_antonyms": {
+"correct": "精査",
+"distractors": ["見逃し", "黙過", "放置"]
+}
+},
+{
+"id": "w090",
+"word": "喫緊",
+"reading": "きっきん",
+"meaning_short": "差し迫って重要なこと",
+"meaning_long": "すぐに対応が必要な、差し迫った重要課題のこと。",
+"example": "人材育成は喫緊の経営課題として扱われている。",
+"synonyms": ["緊急", "焦眉"],
+"antonyms": ["悠長", "後回し"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "緊急",
+"distractors": ["悠長", "逐次", "静穏"]
+},
+"quiz_antonyms": {
+"correct": "悠長",
+"distractors": ["緊急", "焦眉", "切迫"]
+}
+},
+{
+"id": "w091",
+"word": "慶賀",
+"reading": "けいが",
+"meaning_short": "喜び祝うこと",
+"meaning_long": "めでたい出来事を喜び、祝意を表すこと。",
+"example": "受賞の知らせに、家族みんなで慶賀した。",
+"synonyms": ["祝賀", "祝福"],
+"antonyms": ["弔意", "哀悼"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "感情"],
+"quiz_synonyms": {
+"correct": "祝賀",
+"distractors": ["哀悼", "斟酌", "周到"]
+},
+"quiz_antonyms": {
+"correct": "哀悼",
+"distractors": ["祝賀", "祝福", "歓喜"]
+}
+},
+{
+"id": "w092",
+"word": "懐柔",
+"reading": "かいじゅう",
+"meaning_short": "うまくなだめ従わせること",
+"meaning_long": "利益や言葉で相手をなだめ、自分に従わせること。",
+"example": "反対派を懐柔して計画を進めようとした。",
+"synonyms": ["懐かし込む", "取り込む"],
+"antonyms": ["対決", "排斥"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "取り込む",
+"distractors": ["排斥", "駁論", "詮索"]
+},
+"quiz_antonyms": {
+"correct": "排斥",
+"distractors": ["取り込む", "懐かし込む", "迎合"]
+}
+},
+{
+"id": "w093",
+"word": "是正",
+"reading": "ぜせい",
+"meaning_short": "悪い点を正しく直すこと",
+"meaning_long": "誤りや不適切な状態を改め、正しい形に戻すこと。",
+"example": "偏った評価基準を是正する必要がある。",
+"synonyms": ["修正", "改正"],
+"antonyms": ["放置", "助長"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "修正",
+"distractors": ["助長", "媒介", "温存"]
+},
+"quiz_antonyms": {
+"correct": "放置",
+"distractors": ["修正", "改正", "改善"]
+}
+},
+{
+"id": "w094",
+"word": "専横",
+"reading": "せんおう",
+"meaning_short": "勝手に権力をふるうこと",
+"meaning_long": "他者を顧みず、自分勝手に権力を行使すること。",
+"example": "一部幹部の専横を防ぐため監査を強化した。",
+"synonyms": ["横暴", "独断専行"],
+"antonyms": ["協調", "合議"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "組織"],
+"quiz_synonyms": {
+"correct": "横暴",
+"distractors": ["合議", "寛容", "周到"]
+},
+"quiz_antonyms": {
+"correct": "合議",
+"distractors": ["横暴", "独断専行", "強権"]
+}
+},
+{
+"id": "w095",
+"word": "峻別",
+"reading": "しゅんべつ",
+"meaning_short": "厳しくはっきり区別すること",
+"meaning_long": "性質の異なるものを厳密に分けて扱うこと。",
+"example": "事実と推測は峻別して説明してください。",
+"synonyms": ["区別", "識別"],
+"antonyms": ["混同", "同一視"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "思考"],
+"quiz_synonyms": {
+"correct": "識別",
+"distractors": ["混同", "収斂", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "混同",
+"distractors": ["区別", "識別", "分類"]
+}
+},
+{
+"id": "w096",
+"word": "脱却",
+"reading": "だっきゃく",
+"meaning_short": "悪い状態から抜け出すこと",
+"meaning_long": "制約や悪習、停滞した状態から抜け出すこと。",
+"example": "属人的な運用からの脱却を目指して仕組み化した。",
+"synonyms": ["離脱", "克服"],
+"antonyms": ["固着", "依存"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "変化"],
+"quiz_synonyms": {
+"correct": "離脱",
+"distractors": ["依存", "収斂", "斡旋"]
+},
+"quiz_antonyms": {
+"correct": "依存",
+"distractors": ["離脱", "克服", "自立"]
+}
+},
+{
+"id": "w097",
+"word": "逼迫",
+"reading": "ひっぱく",
+"meaning_short": "余裕がなく差し迫ること",
+"meaning_long": "状況や財政などに余裕がなく、切迫していること。",
+"example": "資金繰りが逼迫し、早急な対応が必要になった。",
+"synonyms": ["切迫", "窮迫"],
+"antonyms": ["緩和", "余裕"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "切迫",
+"distractors": ["余裕", "静謐", "温存"]
+},
+"quiz_antonyms": {
+"correct": "余裕",
+"distractors": ["切迫", "窮迫", "喫緊"]
+}
+},
+{
+"id": "w098",
+"word": "沈静",
+"reading": "ちんせい",
+"meaning_short": "騒ぎがしずまること",
+"meaning_long": "混乱や興奮が落ち着き、静かな状態になること。",
+"example": "SNS上の議論が沈静するまで様子を見ることにした。",
+"synonyms": ["鎮静", "平静化"],
+"antonyms": ["激化", "高揚"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "鎮静",
+"distractors": ["激化", "昂然", "闊達"]
+},
+"quiz_antonyms": {
+"correct": "激化",
+"distractors": ["鎮静", "平静化", "終息"]
+}
+},
+{
+"id": "w099",
+"word": "画一",
+"reading": "かくいつ",
+"meaning_short": "一様で個性がないこと",
+"meaning_long": "すべてを同じ基準でそろえ、変化が乏しいこと。",
+"example": "画一的な評価では個々の強みが見えにくい。",
+"synonyms": ["一律", "均一"],
+"antonyms": ["多様", "個別"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "一律",
+"distractors": ["多様", "精緻", "周到"]
+},
+"quiz_antonyms": {
+"correct": "多様",
+"distractors": ["一律", "均一", "画一的"]
+}
+},
+{
+"id": "w100",
+"word": "破格",
+"reading": "はかく",
+"meaning_short": "規格外に優れていること",
+"meaning_long": "標準や慣例を超えて特別であること。価格が極端に安い意もある。",
+"example": "新人としては破格の待遇で迎えられた。",
+"synonyms": ["格別", "別格"],
+"antonyms": ["並", "平凡"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "別格",
+"distractors": ["平凡", "豪奢", "端正"]
+},
+"quiz_antonyms": {
+"correct": "平凡",
+"distractors": ["格別", "別格", "特別"]
+}
+},
+{
+"id": "w101",
+"word": "流暢",
+"reading": "りゅうちょう",
+"meaning_short": "すらすらよどみないこと",
+"meaning_long": "言葉や文章、動作などがなめらかでよどみないこと。",
+"example": "彼は流暢な説明で初学者にも理解させた。",
+"synonyms": ["滑らか", "すらすら"],
+"antonyms": ["吃音", "たどたどしい"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "滑らか",
+"distractors": ["たどたどしい", "静謐", "簡素"]
+},
+"quiz_antonyms": {
+"correct": "たどたどしい",
+"distractors": ["滑らか", "すらすら", "明瞭"]
+}
+},
+{
+"id": "w102",
+"word": "難渋",
+"reading": "なんじゅう",
+"meaning_short": "困ってなかなか進まないこと",
+"meaning_long": "問題が多く、処理や進行に苦労していること。",
+"example": "権利関係の確認に難渋し、公開が遅れた。",
+"synonyms": ["苦慮", "難航"],
+"antonyms": ["順調", "容易"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "難航",
+"distractors": ["順調", "逐次", "周到"]
+},
+"quiz_antonyms": {
+"correct": "順調",
+"distractors": ["苦慮", "難航", "停滞"]
+}
+},
+{
+"id": "w103",
+"word": "寡黙",
+"reading": "かもく",
+"meaning_short": "口数が少ないこと",
+"meaning_long": "あまり多くを話さず、静かにしている性質。",
+"example": "彼は寡黙だが、発言すると要点が鋭い。",
+"synonyms": ["無口", "口数が少ない"],
+"antonyms": ["饒舌", "多弁"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "無口",
+"distractors": ["多弁", "快活", "昂然"]
+},
+"quiz_antonyms": {
+"correct": "多弁",
+"distractors": ["無口", "口数が少ない", "沈黙"]
+}
+},
+{
+"id": "w104",
+"word": "饒舌",
+"reading": "じょうぜつ",
+"meaning_short": "よくしゃべること",
+"meaning_long": "口数が多く、よどみなく話すさま。やや話しすぎの含みもある。",
+"example": "緊張すると逆に饒舌になる人もいる。",
+"synonyms": ["多弁", "雄弁"],
+"antonyms": ["寡黙", "無口"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "多弁",
+"distractors": ["寡黙", "朦朧", "簡素"]
+},
+"quiz_antonyms": {
+"correct": "寡黙",
+"distractors": ["多弁", "雄弁", "流暢"]
+}
+},
+{
+"id": "w105",
+"word": "陳腐",
+"reading": "ちんぷ",
+"meaning_short": "ありふれて新味がないこと",
+"meaning_long": "表現や発想が古く、ありきたりで新しさがないこと。",
+"example": "陳腐な表現を避けるため具体例を入れた。",
+"synonyms": ["ありふれた", "旧套"],
+"antonyms": ["斬新", "新奇"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "ありふれた",
+"distractors": ["斬新", "精緻", "高邁"]
+},
+"quiz_antonyms": {
+"correct": "斬新",
+"distractors": ["ありふれた", "旧套", "平凡"]
+}
+},
+{
+"id": "w106",
+"word": "新奇",
+"reading": "しんき",
+"meaning_short": "新しく珍しいこと",
+"meaning_long": "これまでにない新しさや珍しさがあること。",
+"example": "新奇な視点が研究の価値を高めた。",
+"synonyms": ["斬新", "新鮮"],
+"antonyms": ["陳腐", "旧式"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "斬新",
+"distractors": ["陳腐", "周到", "簡明"]
+},
+"quiz_antonyms": {
+"correct": "陳腐",
+"distractors": ["斬新", "新鮮", "革新的"]
+}
+},
+{
+"id": "w107",
+"word": "緩慢",
+"reading": "かんまん",
+"meaning_short": "動きや進み方がおそいこと",
+"meaning_long": "速度や反応、進行が遅く、のろのろしていること。",
+"example": "承認手続きが緩慢だと機会を逃しやすい。",
+"synonyms": ["遅鈍", "鈍重"],
+"antonyms": ["迅速", "機敏"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "鈍重",
+"distractors": ["迅速", "果敢", "流暢"]
+},
+"quiz_antonyms": {
+"correct": "迅速",
+"distractors": ["遅鈍", "鈍重", "停滞"]
+}
+},
+{
+"id": "w108",
+"word": "迅速",
+"reading": "じんそく",
+"meaning_short": "非常にはやいこと",
+"meaning_long": "対応や動作などが素早く、時間を要しないこと。",
+"example": "障害発生時の迅速な連絡が被害を抑えた。",
+"synonyms": ["素早い", "機敏"],
+"antonyms": ["緩慢", "遅滞"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "機敏",
+"distractors": ["緩慢", "周到", "慎重"]
+},
+"quiz_antonyms": {
+"correct": "緩慢",
+"distractors": ["素早い", "機敏", "即断"]
+}
+},
+{
+"id": "w109",
+"word": "厳格",
+"reading": "げんかく",
+"meaning_short": "きびしく規律正しいこと",
+"meaning_long": "基準や規律に対して妥協せず、厳しいこと。",
+"example": "品質管理を厳格に行う姿勢が信頼につながる。",
+"synonyms": ["厳正", "峻厳"],
+"antonyms": ["寛容", "温和"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "厳正",
+"distractors": ["温和", "慈愛", "静穏"]
+},
+"quiz_antonyms": {
+"correct": "寛容",
+"distractors": ["厳正", "峻厳", "苛烈"]
+}
+},
+{
+"id": "w110",
+"word": "温厚",
+"reading": "おんこう",
+"meaning_short": "おだやかでやさしいこと",
+"meaning_long": "性格や態度が穏やかで、思いやりがあること。",
+"example": "温厚な人柄で部署の相談役として慕われている。",
+"synonyms": ["温和", "柔和"],
+"antonyms": ["苛烈", "粗暴"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "柔和",
+"distractors": ["粗暴", "剛胆", "頓狂"]
+},
+"quiz_antonyms": {
+"correct": "粗暴",
+"distractors": ["温和", "柔和", "親切"]
+}
+},
+{
+"id": "w111",
+"word": "慎重",
+"reading": "しんちょう",
+"meaning_short": "注意深く軽々しくないこと",
+"meaning_long": "結果をよく考え、注意深く行動すること。",
+"example": "新しい契約は慎重に条件を確認して進める。",
+"synonyms": ["用心深い", "入念"],
+"antonyms": ["軽率", "不用意"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "用心深い",
+"distractors": ["軽率", "果敢", "迅速"]
+},
+"quiz_antonyms": {
+"correct": "軽率",
+"distractors": ["用心深い", "入念", "周到"]
+}
+},
+{
+"id": "w112",
+"word": "軽率",
+"reading": "けいそつ",
+"meaning_short": "よく考えずに行うこと",
+"meaning_long": "十分な検討をせず、思いつきで行動すること。",
+"example": "軽率な発言が誤解を広げてしまった。",
+"synonyms": ["早計", "不用意"],
+"antonyms": ["慎重", "周到"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "早計",
+"distractors": ["慎重", "精緻", "厳密"]
+},
+"quiz_antonyms": {
+"correct": "慎重",
+"distractors": ["早計", "不用意", "拙速"]
+}
+},
+{
+"id": "w113",
+"word": "適宜",
+"reading": "てきぎ",
+"meaning_short": "状況に応じてちょうどよく",
+"meaning_long": "その場の状況や必要に合わせて適切に行うこと。",
+"example": "資料は適宜更新して最新版を共有してください。",
+"synonyms": ["適切に", "随時"],
+"antonyms": ["一律", "不適切"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "運用"],
+"quiz_synonyms": {
+"correct": "随時",
+"distractors": ["一律", "逐次", "画一"]
+},
+"quiz_antonyms": {
+"correct": "不適切",
+"distractors": ["適切に", "随時", "妥当"]
+}
+},
+{
+"id": "w114",
+"word": "無謀",
+"reading": "むぼう",
+"meaning_short": "結果を考えない危険なこと",
+"meaning_long": "危険や失敗の可能性を考えず、むやみに行うこと。",
+"example": "準備不足で挑むのは無謀だと判断した。",
+"synonyms": ["無茶", "向こう見ず"],
+"antonyms": ["慎重", "堅実"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "向こう見ず",
+"distractors": ["堅実", "周到", "簡明"]
+},
+"quiz_antonyms": {
+"correct": "堅実",
+"distractors": ["無茶", "向こう見ず", "拙速"]
+}
+},
+{
+"id": "w115",
+"word": "妥当",
+"reading": "だとう",
+"meaning_short": "適切で無理がないこと",
+"meaning_long": "事情や根拠に照らして適切で、納得できること。",
+"example": "費用対効果を考えると妥当な判断だと思う。",
+"synonyms": ["適切", "相当"],
+"antonyms": ["不当", "不適切"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "適切",
+"distractors": ["不当", "豪奢", "昂然"]
+},
+"quiz_antonyms": {
+"correct": "不当",
+"distractors": ["適切", "相当", "適宜"]
+}
+},
+{
+"id": "w116",
+"word": "偏重",
+"reading": "へんちょう",
+"meaning_short": "一方にかたよって重視すること",
+"meaning_long": "特定の要素だけを過度に重く見て扱うこと。",
+"example": "短期利益への偏重が長期投資を妨げている。",
+"synonyms": ["偏向", "片寄り重視"],
+"antonyms": ["均衡", "中庸"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "思考"],
+"quiz_synonyms": {
+"correct": "偏向",
+"distractors": ["均衡", "峻別", "精査"]
+},
+"quiz_antonyms": {
+"correct": "均衡",
+"distractors": ["偏向", "片寄り重視", "一極集中"]
+}
+},
+{
+"id": "w117",
+"word": "均衡",
+"reading": "きんこう",
+"meaning_short": "つり合いが取れていること",
+"meaning_long": "複数の要素が釣り合い、安定した状態にあること。",
+"example": "費用と品質の均衡を意識して設計した。",
+"synonyms": ["均整", "平衡"],
+"antonyms": ["偏重", "不均衡"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "状態"],
+"quiz_synonyms": {
+"correct": "平衡",
+"distractors": ["不均衡", "収斂", "静謐"]
+},
+"quiz_antonyms": {
+"correct": "不均衡",
+"distractors": ["均整", "平衡", "安定"]
+}
+},
+{
+"id": "w118",
+"word": "克己",
+"reading": "こっき",
+"meaning_short": "自分の欲をおさえること",
+"meaning_long": "欲望や感情に流されず、自分を律して抑えること。",
+"example": "克己の姿勢で毎日の学習を継続している。",
+"synonyms": ["自制", "節制"],
+"antonyms": ["放縦", "自失"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "性質"],
+"quiz_synonyms": {
+"correct": "自制",
+"distractors": ["放縦", "耽溺", "懐柔"]
+},
+"quiz_antonyms": {
+"correct": "放縦",
+"distractors": ["自制", "節制", "禁欲"]
+}
+},
+{
+"id": "w119",
+"word": "放漫",
+"reading": "ほうまん",
+"meaning_short": "しまりがなくだらしないこと",
+"meaning_long": "管理や態度に締まりがなく、だらしないこと。",
+"example": "放漫な予算運用は見直さなければならない。",
+"synonyms": ["杜撰", "だらしない"],
+"antonyms": ["厳格", "緊密"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "評価"],
+"quiz_synonyms": {
+"correct": "だらしない",
+"distractors": ["厳格", "周到", "精緻"]
+},
+"quiz_antonyms": {
+"correct": "厳格",
+"distractors": ["杜撰", "だらしない", "放任"]
+}
+},
+{
+"id": "w120",
+"word": "簡明",
+"reading": "かんめい",
+"meaning_short": "簡潔でわかりやすいこと",
+"meaning_long": "無駄がなく、内容が明確で理解しやすいこと。",
+"example": "結論を先に述べると説明が簡明になる。",
+"synonyms": ["明快", "簡潔"],
+"antonyms": ["迂遠", "冗長"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "表現"],
+"quiz_synonyms": {
+"correct": "明快",
+"distractors": ["冗長", "豪奢", "頓狂"]
+},
+"quiz_antonyms": {
+"correct": "冗長",
+"distractors": ["明快", "簡潔", "端的"]
+}
+},
+{
+"id": "w121",
+"word": "黙認",
+"reading": "もくにん",
+"meaning_short": "知りつつ認めてしまうこと",
+"meaning_long": "問題があると知りながら、あえて反対せず認めること。",
+"example": "規則違反を黙認すると組織の信頼が下がる。",
+"synonyms": ["容認", "看過"],
+"antonyms": ["禁止", "糾弾"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "容認",
+"distractors": ["禁止", "駁論", "峻別"]
+},
+"quiz_antonyms": {
+"correct": "禁止",
+"distractors": ["容認", "看過", "放任"]
+}
+},
+{
+"id": "w122",
+"word": "糾弾",
+"reading": "きゅうだん",
+"meaning_short": "罪や責任を厳しく責めること",
+"meaning_long": "不正や過失について、責任を追及して強く非難すること。",
+"example": "不祥事の関係者を一方的に糾弾する声も出た。",
+"synonyms": ["追及", "非難"],
+"antonyms": ["擁護", "弁護"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "議論"],
+"quiz_synonyms": {
+"correct": "追及",
+"distractors": ["擁護", "斡旋", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "擁護",
+"distractors": ["追及", "非難", "誹謗"]
+}
+},
+{
+"id": "w123",
+"word": "擁護",
+"reading": "ようご",
+"meaning_short": "かばって守ること",
+"meaning_long": "攻撃や批判から守るため、立場や意見を支持してかばうこと。",
+"example": "少数意見を擁護する姿勢も大切だ。",
+"synonyms": ["弁護", "支持"],
+"antonyms": ["糾弾", "排斥"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "弁護",
+"distractors": ["排斥", "誹謗", "牽制"]
+},
+"quiz_antonyms": {
+"correct": "排斥",
+"distractors": ["弁護", "支持", "援助"]
+}
+},
+{
+"id": "w124",
+"word": "排斥",
+"reading": "はいせき",
+"meaning_short": "受け入れずしりぞけること",
+"meaning_long": "仲間や集団から除き、受け入れずにしりぞけること。",
+"example": "異なる意見を排斥する文化は成長を妨げる。",
+"synonyms": ["排除", "拒絶"],
+"antonyms": ["受容", "擁護"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "排除",
+"distractors": ["受容", "斡旋", "仲介"]
+},
+"quiz_antonyms": {
+"correct": "受容",
+"distractors": ["排除", "拒絶", "拒否"]
+}
+},
+{
+"id": "w125",
+"word": "受容",
+"reading": "じゅよう",
+"meaning_short": "受け入れて認めること",
+"meaning_long": "考え方や状況を受け入れ、認めて受け止めること。",
+"example": "多様な価値観を受容できる職場は働きやすい。",
+"synonyms": ["容認", "受け入れ"],
+"antonyms": ["排斥", "拒絶"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "容認",
+"distractors": ["拒絶", "糾弾", "牽制"]
+},
+"quiz_antonyms": {
+"correct": "拒絶",
+"distractors": ["容認", "受け入れ", "賛同"]
+}
+},
+{
+"id": "w126",
+"word": "拒絶",
+"reading": "きょぜつ",
+"meaning_short": "受けつけず断ること",
+"meaning_long": "要求や提案、人間関係などを受け入れず強く断ること。",
+"example": "安全基準を満たさない案は拒絶された。",
+"synonyms": ["拒否", "排斥"],
+"antonyms": ["受容", "承諾"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "拒否",
+"distractors": ["承諾", "斟酌", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "承諾",
+"distractors": ["拒否", "排斥", "固辞"]
+}
+},
+{
+"id": "w127",
+"word": "承諾",
+"reading": "しょうだく",
+"meaning_short": "引き受けると認めること",
+"meaning_long": "相手の求めや条件を受け入れ、認めること。",
+"example": "条件を確認した上で正式に承諾した。",
+"synonyms": ["同意", "了承"],
+"antonyms": ["拒絶", "拒否"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "了承",
+"distractors": ["拒否", "糾弾", "排斥"]
+},
+"quiz_antonyms": {
+"correct": "拒否",
+"distractors": ["同意", "了承", "賛成"]
+}
+},
+{
+"id": "w128",
+"word": "了承",
+"reading": "りょうしょう",
+"meaning_short": "事情を理解し認めること",
+"meaning_long": "事情や内容を理解したうえで認め、受け入れること。",
+"example": "仕様変更について事前に了承を得ておく。",
+"synonyms": ["承知", "承諾"],
+"antonyms": ["異議", "拒否"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "伝達"],
+"quiz_synonyms": {
+"correct": "承知",
+"distractors": ["異議", "駁論", "詮索"]
+},
+"quiz_antonyms": {
+"correct": "異議",
+"distractors": ["承知", "承諾", "同意"]
+}
+},
+{
+"id": "w129",
+"word": "異議",
+"reading": "いぎ",
+"meaning_short": "反対や疑問の意見",
+"meaning_long": "相手の意見や決定に対する反対・疑問の申し立て。",
+"example": "異議がある場合は期限内に申し出てください。",
+"synonyms": ["異論", "反対意見"],
+"antonyms": ["同意", "賛成"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "議論"],
+"quiz_synonyms": {
+"correct": "異論",
+"distractors": ["賛成", "祝賀", "斡旋"]
+},
+"quiz_antonyms": {
+"correct": "賛成",
+"distractors": ["異論", "反対意見", "抗議"]
+}
+},
+{
+"id": "w130",
+"word": "賛同",
+"reading": "さんどう",
+"meaning_short": "意見に賛成して同じ立場をとる",
+"meaning_long": "他人の意見や方針に賛成し、同じ考えを示すこと。",
+"example": "提案の趣旨に賛同するメンバーが増えた。",
+"synonyms": ["同調", "賛成"],
+"antonyms": ["反対", "異議"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "議論"],
+"quiz_synonyms": {
+"correct": "同調",
+"distractors": ["反対", "牽制", "糾弾"]
+},
+"quiz_antonyms": {
+"correct": "反対",
+"distractors": ["同調", "賛成", "了承"]
+}
+},
+{
+"id": "w131",
+"word": "反駁",
+"reading": "はんばく",
+"meaning_short": "相手の主張に反論すること",
+"meaning_long": "相手の意見の誤りを示し、論理的に反論して退けること。",
+"example": "感情的にならず根拠を示して反駁した。",
+"synonyms": ["駁論", "論駁"],
+"antonyms": ["同意", "追認"],
+"difficulty": 4,
+"tags": ["SPI頻出語彙", "語彙", "議論"],
+"quiz_synonyms": {
+"correct": "論駁",
+"distractors": ["追認", "示唆", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "同意",
+"distractors": ["駁論", "論駁", "批判"]
+}
+},
+{
+"id": "w132",
+"word": "追認",
+"reading": "ついにん",
+"meaning_short": "あとから正式に認めること",
+"meaning_long": "すでに行われたことを、後になって正式に認めること。",
+"example": "現場判断を本部が追認する形になった。",
+"synonyms": ["承認", "認可"],
+"antonyms": ["否認", "撤回"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "制度"],
+"quiz_synonyms": {
+"correct": "承認",
+"distractors": ["否認", "詮索", "逡巡"]
+},
+"quiz_antonyms": {
+"correct": "否認",
+"distractors": ["承認", "認可", "容認"]
+}
+},
+{
+"id": "w133",
+"word": "否認",
+"reading": "ひにん",
+"meaning_short": "事実でないと認めないこと",
+"meaning_long": "事実や責任などを認めず、違うと主張すること。",
+"example": "当人は関与を一貫して否認している。",
+"synonyms": ["打消し", "拒否認定"],
+"antonyms": ["認容", "承認"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "打消し",
+"distractors": ["承認", "受容", "容認"]
+},
+"quiz_antonyms": {
+"correct": "承認",
+"distractors": ["打消し", "拒否認定", "拒絶"]
+}
+},
+{
+"id": "w134",
+"word": "認容",
+"reading": "にんよう",
+"meaning_short": "認めて受け入れること",
+"meaning_long": "主張や請求などを正当と認め、受け入れること。",
+"example": "裁判所は請求の一部を認容した。",
+"synonyms": ["承認", "受理"],
+"antonyms": ["棄却", "否認"],
+"difficulty": 5,
+"tags": ["SPI頻出語彙", "語彙", "制度"],
+"quiz_synonyms": {
+"correct": "受理",
+"distractors": ["棄却", "排斥", "糾弾"]
+},
+"quiz_antonyms": {
+"correct": "棄却",
+"distractors": ["承認", "受理", "採択"]
+}
+},
+{
+"id": "w135",
+"word": "棄却",
+"reading": "ききゃく",
+"meaning_short": "取り上げず退けること",
+"meaning_long": "請求や提案などを採用せず、認めないで退けること。",
+"example": "証拠不十分として申し立ては棄却された。",
+"synonyms": ["却下", "退ける"],
+"antonyms": ["認容", "採択"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "却下",
+"distractors": ["採択", "是正", "受容"]
+},
+"quiz_antonyms": {
+"correct": "採択",
+"distractors": ["却下", "退ける", "拒絶"]
+}
+},
+{
+"id": "w136",
+"word": "採択",
+"reading": "さいたく",
+"meaning_short": "案などを選び採用すること",
+"meaning_long": "提案や議案の中から適当なものを選んで採用すること。",
+"example": "多数決の結果、修正案が採択された。",
+"synonyms": ["採用", "承認"],
+"antonyms": ["棄却", "却下"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "制度"],
+"quiz_synonyms": {
+"correct": "採用",
+"distractors": ["却下", "排斥", "拒絶"]
+},
+"quiz_antonyms": {
+"correct": "棄却",
+"distractors": ["採用", "承認", "受理"]
+}
+},
+{
+"id": "w137",
+"word": "拡充",
+"reading": "かくじゅう",
+"meaning_short": "内容を広げて充実させること",
+"meaning_long": "規模や内容を広げ、より充実したものにすること。",
+"example": "支援制度を拡充して利用者の負担を減らした。",
+"synonyms": ["充実化", "拡大"],
+"antonyms": ["縮小", "削減"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "変化"],
+"quiz_synonyms": {
+"correct": "拡大",
+"distractors": ["縮小", "収斂", "削減"]
+},
+"quiz_antonyms": {
+"correct": "縮小",
+"distractors": ["充実化", "拡大", "増強"]
+}
+},
+{
+"id": "w138",
+"word": "縮減",
+"reading": "しゅくげん",
+"meaning_short": "数量や規模を減らすこと",
+"meaning_long": "量・規模・費用などを小さくし、減らしていくこと。",
+"example": "無駄な工程を見直してコストを縮減した。",
+"synonyms": ["削減", "縮小"],
+"antonyms": ["拡充", "増強"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "変化"],
+"quiz_synonyms": {
+"correct": "削減",
+"distractors": ["増強", "温存", "拡充"]
+},
+"quiz_antonyms": {
+"correct": "増強",
+"distractors": ["削減", "縮小", "抑制"]
+}
+},
+{
+"id": "w139",
+"word": "増強",
+"reading": "ぞうきょう",
+"meaning_short": "力や機能を強めること",
+"meaning_long": "人員・設備・機能などを増やして強化すること。",
+"example": "繁忙期に向けてサポート体制を増強した。",
+"synonyms": ["強化", "拡充"],
+"antonyms": ["縮減", "弱体化"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "変化"],
+"quiz_synonyms": {
+"correct": "強化",
+"distractors": ["弱体化", "静穏", "精緻"]
+},
+"quiz_antonyms": {
+"correct": "弱体化",
+"distractors": ["強化", "拡充", "補強"]
+}
+},
+{
+"id": "w140",
+"word": "抑制",
+"reading": "よくせい",
+"meaning_short": "おさえて広がらないようにする",
+"meaning_long": "勢いや増加をおさえ、一定範囲にとどめること。",
+"example": "感情を抑制して事実ベースで話し合った。",
+"synonyms": ["抑止", "制御"],
+"antonyms": ["助長", "促進"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "制御",
+"distractors": ["促進", "斡旋", "媒介"]
+},
+"quiz_antonyms": {
+"correct": "促進",
+"distractors": ["抑止", "制御", "牽制"]
+}
+},
+{
+"id": "w141",
+"word": "助長",
+"reading": "じょちょう",
+"meaning_short": "好ましくない傾向を強める",
+"meaning_long": "多くは悪い傾向や問題を、結果的に強めてしまうこと。",
+"example": "あいまいな運用が不公平感を助長した。",
+"synonyms": ["促進", "増幅"],
+"antonyms": ["抑制", "是正"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "変化"],
+"quiz_synonyms": {
+"correct": "増幅",
+"distractors": ["抑制", "静謐", "鎮静"]
+},
+"quiz_antonyms": {
+"correct": "抑制",
+"distractors": ["促進", "増幅", "拡大"]
+}
+},
+{
+"id": "w142",
+"word": "精査",
+"reading": "せいさ",
+"meaning_short": "細かく詳しく調べること",
+"meaning_long": "内容や条件を注意深く詳しく調べて確認すること。",
+"example": "契約書の条項を精査してから署名した。",
+"synonyms": ["精査確認", "吟味"],
+"antonyms": ["看過", "粗覧"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "行動"],
+"quiz_synonyms": {
+"correct": "吟味",
+"distractors": ["看過", "逐次", "示唆"]
+},
+"quiz_antonyms": {
+"correct": "看過",
+"distractors": ["吟味", "精査確認", "検証"]
+}
+},
+{
+"id": "w143",
+"word": "吟味",
+"reading": "ぎんみ",
+"meaning_short": "内容をよく調べ味わうこと",
+"meaning_long": "良し悪しや妥当性を、よく考えて詳しく調べること。",
+"example": "複数案を吟味したうえで一つに絞った。",
+"synonyms": ["精査", "検討"],
+"antonyms": ["即断", "看過"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "思考"],
+"quiz_synonyms": {
+"correct": "検討",
+"distractors": ["即断", "媒介", "収斂"]
+},
+"quiz_antonyms": {
+"correct": "即断",
+"distractors": ["精査", "検討", "熟考"]
+}
+},
+{
+"id": "w144",
+"word": "即断",
+"reading": "そくだん",
+"meaning_short": "その場ですぐ決めること",
+"meaning_long": "時間をかけず、その場で素早く判断して決めること。",
+"example": "現場では即断が求められる場面もある。",
+"synonyms": ["即決", "即座の判断"],
+"antonyms": ["逡巡", "熟慮"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "判断"],
+"quiz_synonyms": {
+"correct": "即決",
+"distractors": ["熟慮", "吟味", "慎重"]
+},
+"quiz_antonyms": {
+"correct": "逡巡",
+"distractors": ["即決", "即座の判断", "迅速"]
+}
+},
+{
+"id": "w145",
+"word": "熟慮",
+"reading": "じゅくりょ",
+"meaning_short": "十分に考え抜くこと",
+"meaning_long": "時間をかけて、さまざまな面から慎重に考えること。",
+"example": "将来の進路は熟慮の末に決めたい。",
+"synonyms": ["熟考", "深慮"],
+"antonyms": ["軽率", "早計"],
+"difficulty": 2,
+"tags": ["SPI頻出語彙", "語彙", "思考"],
+"quiz_synonyms": {
+"correct": "熟考",
+"distractors": ["早計", "即断", "迅速"]
+},
+"quiz_antonyms": {
+"correct": "早計",
+"distractors": ["熟考", "深慮", "慎重"]
+}
+},
+{
+"id": "w146",
+"word": "周旋",
+"reading": "しゅうせん",
+"meaning_short": "間に入って世話をすること",
+"meaning_long": "人と人の間に立って、交渉や手続きを取り持つこと。",
+"example": "先輩が企業訪問の日程を周旋してくれた。",
+"synonyms": ["斡旋", "仲介"],
+"antonyms": ["放置", "断絶"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "仲介",
+"distractors": ["断絶", "排斥", "拒絶"]
+},
+"quiz_antonyms": {
+"correct": "断絶",
+"distractors": ["斡旋", "仲介", "連携"]
+}
+},
+{
+"id": "w147",
+"word": "連携",
+"reading": "れんけい",
+"meaning_short": "互いに協力して進めること",
+"meaning_long": "関係する人や組織が協力し合って物事を進めること。",
+"example": "開発と営業の連携が成果を左右する。",
+"synonyms": ["協働", "協力"],
+"antonyms": ["断絶", "対立"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "組織"],
+"quiz_synonyms": {
+"correct": "協働",
+"distractors": ["対立", "牽制", "糾弾"]
+},
+"quiz_antonyms": {
+"correct": "対立",
+"distractors": ["協働", "協力", "連帯"]
+}
+},
+{
+"id": "w148",
+"word": "対立",
+"reading": "たいりつ",
+"meaning_short": "意見や利害がぶつかること",
+"meaning_long": "立場や考え方が異なり、互いにぶつかり合うこと。",
+"example": "目的を共有すると部署間の対立は減りやすい。",
+"synonyms": ["衝突", "反目"],
+"antonyms": ["協調", "連携"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "衝突",
+"distractors": ["協調", "斡旋", "周旋"]
+},
+"quiz_antonyms": {
+"correct": "協調",
+"distractors": ["衝突", "反目", "排斥"]
+}
+},
+{
+"id": "w149",
+"word": "協調",
+"reading": "きょうちょう",
+"meaning_short": "互いに合わせ協力すること",
+"meaning_long": "立場の違う者同士が歩調を合わせ、協力して進めること。",
+"example": "協調を重んじつつ、必要な主張は明確に行う。",
+"synonyms": ["協力", "連携"],
+"antonyms": ["対立", "反目"],
+"difficulty": 1,
+"tags": ["SPI頻出語彙", "語彙", "組織"],
+"quiz_synonyms": {
+"correct": "協力",
+"distractors": ["反目", "糾弾", "排斥"]
+},
+"quiz_antonyms": {
+"correct": "対立",
+"distractors": ["協力", "連携", "協働"]
+}
+},
+{
+"id": "w150",
+"word": "反目",
+"reading": "はんもく",
+"meaning_short": "仲が悪く対立すること",
+"meaning_long": "互いに憎んだり不満を抱いたりして仲が悪いこと。",
+"example": "小さな誤解が長年の反目に発展してしまった。",
+"synonyms": ["不和", "対立"],
+"antonyms": ["協調", "親和"],
+"difficulty": 3,
+"tags": ["SPI頻出語彙", "語彙", "対人"],
+"quiz_synonyms": {
+"correct": "不和",
+"distractors": ["親和", "慈愛", "寛容"]
+},
+"quiz_antonyms": {
+"correct": "親和",
+"distractors": ["不和", "対立", "衝突"]
+}
+},
+  {
+    "id": "w151",
+    "word": "斟酌",
+    "reading": "しんしゃく",
+    "meaning_short": "事情をくみ取り手加減すること",
+    "meaning_long": "相手の事情や心情をくみ取り、配慮して扱うこと。",
+    "example": "事情を斟酌して提出期限を延ばした。",
+    "synonyms": ["配慮", "考慮"],
+    "antonyms": ["無視", "不問"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "対人"],
+    "quiz_synonyms": {
+      "correct": "考慮",
+      "distractors": ["無視", "牽制", "媒介"]
+    },
+    "quiz_antonyms": {
+      "correct": "無視",
+      "distractors": ["配慮", "考慮", "酌量"]
+    }
+  },
+  {
+    "id": "w152",
+    "word": "示唆",
+    "reading": "しさ",
+    "meaning_short": "それとなく知らせること",
+    "meaning_long": "直接言わずに、気づく手掛かりを与えること。",
+    "example": "データは新しい方針の必要性を示唆している。",
+    "synonyms": ["暗示", "ほのめかし"],
+    "antonyms": ["明言", "直言"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "伝達"],
+    "quiz_synonyms": {
+      "correct": "暗示",
+      "distractors": ["明言", "駁論", "斡旋"]
+    },
+    "quiz_antonyms": {
+      "correct": "明言",
+      "distractors": ["暗示", "ほのめかし", "婉曲"]
+    }
+  },
+  {
+    "id": "w153",
+    "word": "牽制",
+    "reading": "けんせい",
+    "meaning_short": "相手の動きを抑えること",
+    "meaning_long": "相手が自由に動けないように圧力をかけ抑えること。",
+    "example": "価格競争を牽制する発言として受け取られた。",
+    "synonyms": ["抑止", "けん引抑制"],
+    "antonyms": ["助長", "放任"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "行動"],
+    "quiz_synonyms": {
+      "correct": "抑止",
+      "distractors": ["助長", "仲裁", "示唆"]
+    },
+    "quiz_antonyms": {
+      "correct": "放任",
+      "distractors": ["抑止", "けん引抑制", "制御"]
+    }
+  },
+  {
+    "id": "w154",
+    "word": "媒介",
+    "reading": "ばいかい",
+    "meaning_short": "間に立ってつなぐこと",
+    "meaning_long": "物事の間に入って、関係や作用をつなぐこと。",
+    "example": "通信網が情報共有の媒介となる。",
+    "synonyms": ["仲介", "橋渡し"],
+    "antonyms": ["断絶", "遮断"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "関係"],
+    "quiz_synonyms": {
+      "correct": "橋渡し",
+      "distractors": ["遮断", "糾弾", "収斂"]
+    },
+    "quiz_antonyms": {
+      "correct": "遮断",
+      "distractors": ["仲介", "橋渡し", "連結"]
+    }
+  },
+  {
+    "id": "w155",
+    "word": "収斂",
+    "reading": "しゅうれん",
+    "meaning_short": "一つにまとまり集まること",
+    "meaning_long": "複数のものが次第に近づき、一つにまとまること。",
+    "example": "議論を収斂させて結論を明確にした。",
+    "synonyms": ["集約", "収束"],
+    "antonyms": ["拡散", "発散"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "変化"],
+    "quiz_synonyms": {
+      "correct": "収束",
+      "distractors": ["拡散", "逐次", "頓着"]
+    },
+    "quiz_antonyms": {
+      "correct": "拡散",
+      "distractors": ["集約", "収束", "統合"]
+    }
+  },
+  {
+    "id": "w156",
+    "word": "拡散",
+    "reading": "かくさん",
+    "meaning_short": "広く散らばること",
+    "meaning_long": "情報や物質などが広い範囲に散って広がること。",
+    "example": "未確認情報の拡散は避けるべきだ。",
+    "synonyms": ["波及", "発散"],
+    "antonyms": ["収斂", "集約"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "変化"],
+    "quiz_synonyms": {
+      "correct": "波及",
+      "distractors": ["集約", "沈静", "周到"]
+    },
+    "quiz_antonyms": {
+      "correct": "集約",
+      "distractors": ["波及", "発散", "普及"]
+    }
+  },
+  {
+    "id": "w157",
+    "word": "漸次",
+    "reading": "ぜんじ",
+    "meaning_short": "しだいに少しずつ進むこと",
+    "meaning_long": "急がず、段階を追って少しずつ進めること。",
+    "example": "制度は漸次改定して混乱を防ぐ方針だ。",
+    "synonyms": ["徐々に", "段階的に"],
+    "antonyms": ["一挙に", "急激に"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "運用"],
+    "quiz_synonyms": {
+      "correct": "段階的に",
+      "distractors": ["一挙に", "適宜", "逐次"]
+    },
+    "quiz_antonyms": {
+      "correct": "一挙に",
+      "distractors": ["徐々に", "段階的に", "漸進的に"]
+    }
+  },
+  {
+    "id": "w158",
+    "word": "逐次",
+    "reading": "ちくじ",
+    "meaning_short": "順を追って次々に行うこと",
+    "meaning_long": "決められた順番に従い、一つずつ進めること。",
+    "example": "結果は逐次共有するので確認してください。",
+    "synonyms": ["順次", "次々に"],
+    "antonyms": ["一括", "同時"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "運用"],
+    "quiz_synonyms": {
+      "correct": "順次",
+      "distractors": ["一括", "漸次", "適宜"]
+    },
+    "quiz_antonyms": {
+      "correct": "一括",
+      "distractors": ["順次", "次々に", "連続"]
+    }
+  },
+  {
+    "id": "w159",
+    "word": "概略",
+    "reading": "がいりゃく",
+    "meaning_short": "大まかな内容",
+    "meaning_long": "細部を省いた、全体の大まかな内容や要点。",
+    "example": "まず計画の概略を説明してから詳細に入る。",
+    "synonyms": ["概要", "あらまし"],
+    "antonyms": ["詳細", "各論"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "表現"],
+    "quiz_synonyms": {
+      "correct": "概要",
+      "distractors": ["詳細", "端正", "厳密"]
+    },
+    "quiz_antonyms": {
+      "correct": "詳細",
+      "distractors": ["概要", "あらまし", "要旨"]
+    }
+  },
+  {
+    "id": "w160",
+    "word": "詳細",
+    "reading": "しょうさい",
+    "meaning_short": "細かくくわしい内容",
+    "meaning_long": "物事の細かな点までくわしく示した内容。",
+    "example": "仕様の詳細は別紙にまとめてあります。",
+    "synonyms": ["詳述", "各論"],
+    "antonyms": ["概略", "概要"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "表現"],
+    "quiz_synonyms": {
+      "correct": "詳述",
+      "distractors": ["概要", "簡素", "端的"]
+    },
+    "quiz_antonyms": {
+      "correct": "概略",
+      "distractors": ["詳述", "各論", "精査"]
+    }
+  },
+  {
+    "id": "w161",
+    "word": "適切",
+    "reading": "てきせつ",
+    "meaning_short": "ちょうどよくふさわしいこと",
+    "meaning_long": "状況や目的に合っており、妥当であること。",
+    "example": "対象者に応じた適切な説明が必要だ。",
+    "synonyms": ["妥当", "適当"],
+    "antonyms": ["不適切", "不当"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "評価"],
+    "quiz_synonyms": {
+      "correct": "妥当",
+      "distractors": ["不当", "偏重", "拙速"]
+    },
+    "quiz_antonyms": {
+      "correct": "不適切",
+      "distractors": ["妥当", "適当", "適宜"]
+    }
+  },
+  {
+    "id": "w162",
+    "word": "不当",
+    "reading": "ふとう",
+    "meaning_short": "道理に合わず適切でないこと",
+    "meaning_long": "道理や基準に照らして正しくなく、妥当でないこと。",
+    "example": "不当な扱いを受けたと感じたら相談すべきだ。",
+    "synonyms": ["不適切", "不正当"],
+    "antonyms": ["妥当", "適切"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "評価"],
+    "quiz_synonyms": {
+      "correct": "不適切",
+      "distractors": ["妥当", "簡明", "温厚"]
+    },
+    "quiz_antonyms": {
+      "correct": "妥当",
+      "distractors": ["不適切", "不正当", "不備"]
+    }
+  },
+  {
+    "id": "w163",
+    "word": "妥結",
+    "reading": "だけつ",
+    "meaning_short": "話し合いがまとまること",
+    "meaning_long": "交渉や協議の結果、双方が受け入れてまとまること。",
+    "example": "交渉は深夜にようやく妥結した。",
+    "synonyms": ["合意", "決着"],
+    "antonyms": ["決裂", "対立"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "議論"],
+    "quiz_synonyms": {
+      "correct": "合意",
+      "distractors": ["決裂", "排斥", "糾弾"]
+    },
+    "quiz_antonyms": {
+      "correct": "決裂",
+      "distractors": ["合意", "決着", "採択"]
+    }
+  },
+  {
+    "id": "w164",
+    "word": "決裂",
+    "reading": "けつれつ",
+    "meaning_short": "関係や交渉がこわれること",
+    "meaning_long": "交渉や協力関係がまとまらず、完全にこわれること。",
+    "example": "条件面で折り合わず交渉は決裂した。",
+    "synonyms": ["破談", "破綻"],
+    "antonyms": ["妥結", "合意"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "議論"],
+    "quiz_synonyms": {
+      "correct": "破談",
+      "distractors": ["妥結", "連携", "仲裁"]
+    },
+    "quiz_antonyms": {
+      "correct": "妥結",
+      "distractors": ["破談", "破綻", "対立"]
+    }
+  },
+  {
+    "id": "w165",
+    "word": "停滞",
+    "reading": "ていたい",
+    "meaning_short": "進まずとどこおること",
+    "meaning_long": "物事の進行や成長が止まり、動きが鈍くなること。",
+    "example": "議論が停滞したので論点を整理し直した。",
+    "synonyms": ["停頓", "低迷"],
+    "antonyms": ["進展", "進捗"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "低迷",
+      "distractors": ["進展", "拡充", "増強"]
+    },
+    "quiz_antonyms": {
+      "correct": "進展",
+      "distractors": ["停頓", "低迷", "足踏み"]
+    }
+  },
+  {
+    "id": "w166",
+    "word": "進捗",
+    "reading": "しんちょく",
+    "meaning_short": "物事の進み具合",
+    "meaning_long": "計画や作業がどの程度進んでいるかという状態。",
+    "example": "毎週の会議で進捗を共有している。",
+    "synonyms": ["進み具合", "進展"],
+    "antonyms": ["停滞", "遅延"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "運用"],
+    "quiz_synonyms": {
+      "correct": "進展",
+      "distractors": ["停滞", "断絶", "看過"]
+    },
+    "quiz_antonyms": {
+      "correct": "遅延",
+      "distractors": ["進み具合", "進展", "達成"]
+    }
+  },
+  {
+    "id": "w167",
+    "word": "顕著",
+    "reading": "けんちょ",
+    "meaning_short": "はっきり目立つこと",
+    "meaning_long": "違いや特徴がはっきり現れて目立つこと。",
+    "example": "改善後は処理時間の短縮が顕著に見られた。",
+    "synonyms": ["著しい", "明白"],
+    "antonyms": ["微小", "軽微"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "評価"],
+    "quiz_synonyms": {
+      "correct": "著しい",
+      "distractors": ["軽微", "静謐", "簡素"]
+    },
+    "quiz_antonyms": {
+      "correct": "軽微",
+      "distractors": ["著しい", "明白", "鮮明"]
+    }
+  },
+  {
+    "id": "w168",
+    "word": "顕在",
+    "reading": "けんざい",
+    "meaning_short": "表に現れていること",
+    "meaning_long": "問題や性質が表面化し、はっきり見えていること。",
+    "example": "小さな不満が顕在化する前に対処したい。",
+    "synonyms": ["表面化", "明在"],
+    "antonyms": ["潜在", "内在"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "表面化",
+      "distractors": ["潜在", "沈静", "収斂"]
+    },
+    "quiz_antonyms": {
+      "correct": "潜在",
+      "distractors": ["表面化", "明在", "露見"]
+    }
+  },
+  {
+    "id": "w169",
+    "word": "潜在",
+    "reading": "せんざい",
+    "meaning_short": "表に出ず内にひそむこと",
+    "meaning_long": "能力や問題が表面には現れず、内にひそんでいること。",
+    "example": "潜在的な需要を把握する調査を行った。",
+    "synonyms": ["内在", "潜伏"],
+    "antonyms": ["顕在", "表面化"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "内在",
+      "distractors": ["顕在", "拡散", "明言"]
+    },
+    "quiz_antonyms": {
+      "correct": "顕在",
+      "distractors": ["内在", "潜伏", "秘匿"]
+    }
+  },
+  {
+    "id": "w170",
+    "word": "普遍",
+    "reading": "ふへん",
+    "meaning_short": "広く一般にあてはまること",
+    "meaning_long": "特定の場合に限られず、広く共通して成り立つこと。",
+    "example": "その原則は分野を超えて普遍的に通用する。",
+    "synonyms": ["一般的", "共通"],
+    "antonyms": ["特殊", "限定的"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "思考"],
+    "quiz_synonyms": {
+      "correct": "一般的",
+      "distractors": ["特殊", "個別", "断続"]
+    },
+    "quiz_antonyms": {
+      "correct": "特殊",
+      "distractors": ["一般的", "共通", "普及"]
+    }
+  },
+  {
+    "id": "w171",
+    "word": "特殊",
+    "reading": "とくしゅ",
+    "meaning_short": "一般とは異なる特別なこと",
+    "meaning_long": "通常とは異なり、特定の条件に限られること。",
+    "example": "この手順は特殊な設備がある場合に限る。",
+    "synonyms": ["特別", "特異"],
+    "antonyms": ["普遍", "一般的"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "評価"],
+    "quiz_synonyms": {
+      "correct": "特異",
+      "distractors": ["一般的", "簡素", "温厚"]
+    },
+    "quiz_antonyms": {
+      "correct": "一般的",
+      "distractors": ["特別", "特異", "例外的"]
+    }
+  },
+  {
+    "id": "w172",
+    "word": "本質",
+    "reading": "ほんしつ",
+    "meaning_short": "そのものの最も大事な性質",
+    "meaning_long": "物事を成り立たせている中心的で重要な性質。",
+    "example": "表面的な数字だけでなく課題の本質を見る。",
+    "synonyms": ["核心", "真髄"],
+    "antonyms": ["表層", "枝葉"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "思考"],
+    "quiz_synonyms": {
+      "correct": "核心",
+      "distractors": ["表層", "概略", "迂遠"]
+    },
+    "quiz_antonyms": {
+      "correct": "表層",
+      "distractors": ["核心", "真髄", "要点"]
+    }
+  },
+  {
+    "id": "w173",
+    "word": "表層",
+    "reading": "ひょうそう",
+    "meaning_short": "表面に見える部分",
+    "meaning_long": "物事の表面に現れている部分。深い原因に対する語。",
+    "example": "表層の現象だけを見て判断しないようにした。",
+    "synonyms": ["表面", "外形"],
+    "antonyms": ["本質", "深層"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "思考"],
+    "quiz_synonyms": {
+      "correct": "表面",
+      "distractors": ["深層", "核心", "真髄"]
+    },
+    "quiz_antonyms": {
+      "correct": "深層",
+      "distractors": ["表面", "外形", "外観"]
+    }
+  },
+  {
+    "id": "w174",
+    "word": "一貫",
+    "reading": "いっかん",
+    "meaning_short": "始めから終わりまでぶれない",
+    "meaning_long": "方針や態度が途中で変わらず、筋が通っていること。",
+    "example": "一貫した評価基準が納得感につながる。",
+    "synonyms": ["首尾一貫", "徹底"],
+    "antonyms": ["矛盾", "変節"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "評価"],
+    "quiz_synonyms": {
+      "correct": "首尾一貫",
+      "distractors": ["矛盾", "断続", "散漫"]
+    },
+    "quiz_antonyms": {
+      "correct": "矛盾",
+      "distractors": ["首尾一貫", "徹底", "継続"]
+    }
+  },
+  {
+    "id": "w175",
+    "word": "断続",
+    "reading": "だんぞく",
+    "meaning_short": "切れたり続いたりすること",
+    "meaning_long": "途中で途切れながら、続いたり止まったりすること。",
+    "example": "通信が断続的に不安定になっていた。",
+    "synonyms": ["途切れ途切れ", "間欠"],
+    "antonyms": ["継続", "連続"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "間欠",
+      "distractors": ["連続", "周到", "漸次"]
+    },
+    "quiz_antonyms": {
+      "correct": "連続",
+      "distractors": ["途切れ途切れ", "間欠", "断片"]
+    }
+  },
+  {
+    "id": "w176",
+    "word": "継続",
+    "reading": "けいぞく",
+    "meaning_short": "続けて行うこと",
+    "meaning_long": "途中でやめずに、そのまま続けて実施すること。",
+    "example": "小さな改善でも継続すると大きな差になる。",
+    "synonyms": ["持続", "持続的実施"],
+    "antonyms": ["中断", "停止"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "行動"],
+    "quiz_synonyms": {
+      "correct": "持続",
+      "distractors": ["停止", "断絶", "放棄"]
+    },
+    "quiz_antonyms": {
+      "correct": "中断",
+      "distractors": ["持続", "持続的実施", "連続"]
+    }
+  },
+  {
+    "id": "w177",
+    "word": "中断",
+    "reading": "ちゅうだん",
+    "meaning_short": "途中でいったん止めること",
+    "meaning_long": "進行中の作業や話を、途中で止めること。",
+    "example": "機器点検のため一時的に運転を中断した。",
+    "synonyms": ["停止", "打ち切り"],
+    "antonyms": ["継続", "続行"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "行動"],
+    "quiz_synonyms": {
+      "correct": "停止",
+      "distractors": ["続行", "迅速", "進捗"]
+    },
+    "quiz_antonyms": {
+      "correct": "続行",
+      "distractors": ["停止", "打ち切り", "断念"]
+    }
+  },
+  {
+    "id": "w178",
+    "word": "措置",
+    "reading": "そち",
+    "meaning_short": "必要な手立てをとること",
+    "meaning_long": "状況に応じて必要な処置・手配を行うこと。",
+    "example": "安全確保のため応急措置を講じた。",
+    "synonyms": ["処置", "手当て"],
+    "antonyms": ["放置", "看過"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "行動"],
+    "quiz_synonyms": {
+      "correct": "処置",
+      "distractors": ["放置", "斡旋", "仲裁"]
+    },
+    "quiz_antonyms": {
+      "correct": "放置",
+      "distractors": ["処置", "手当て", "対策"]
+    }
+  },
+  {
+    "id": "w179",
+    "word": "対処",
+    "reading": "たいしょ",
+    "meaning_short": "状況に応じて対応すること",
+    "meaning_long": "起きた問題や状況に応じ、適切な行動をとること。",
+    "example": "障害発生時の対処手順を事前に共有した。",
+    "synonyms": ["対応", "処理"],
+    "antonyms": ["放置", "黙認"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "行動"],
+    "quiz_synonyms": {
+      "correct": "対応",
+      "distractors": ["黙認", "看過", "停滞"]
+    },
+    "quiz_antonyms": {
+      "correct": "放置",
+      "distractors": ["対応", "処理", "措置"]
+    }
+  },
+  {
+    "id": "w180",
+    "word": "配慮",
+    "reading": "はいりょ",
+    "meaning_short": "相手や状況に気を配ること",
+    "meaning_long": "相手の事情や周囲の状況を考えて気を配ること。",
+    "example": "初学者への配慮として用語説明を加えた。",
+    "synonyms": ["気遣い", "斟酌"],
+    "antonyms": ["無配慮", "無頓着"],
+    "difficulty": 1,
+    "tags": ["SPI頻出語彙", "語彙", "対人"],
+    "quiz_synonyms": {
+      "correct": "気遣い",
+      "distractors": ["無頓着", "牽制", "糾弾"]
+    },
+    "quiz_antonyms": {
+      "correct": "無配慮",
+      "distractors": ["気遣い", "斟酌", "思いやり"]
+    }
+  },
+  {
+    "id": "w181",
+    "word": "介入",
+    "reading": "かいにゅう",
+    "meaning_short": "間に入り影響を与えること",
+    "meaning_long": "当事者の間に入り、事態に働きかけること。",
+    "example": "第三者が介入して話し合いを整理した。",
+    "synonyms": ["干渉", "関与"],
+    "antonyms": ["傍観", "放任"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "行動"],
+    "quiz_synonyms": {
+      "correct": "関与",
+      "distractors": ["傍観", "周旋", "媒介"]
+    },
+    "quiz_antonyms": {
+      "correct": "傍観",
+      "distractors": ["干渉", "関与", "参加"]
+    }
+  },
+  {
+    "id": "w182",
+    "word": "仲裁",
+    "reading": "ちゅうさい",
+    "meaning_short": "争いの間に入りまとめること",
+    "meaning_long": "対立する当事者の間に立ち、争いをおさめること。",
+    "example": "担当者が両部署の意見を仲裁してくれた。",
+    "synonyms": ["調停", "取り成し"],
+    "antonyms": ["対立助長", "扇動"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "対人"],
+    "quiz_synonyms": {
+      "correct": "調停",
+      "distractors": ["扇動", "牽制", "詮索"]
+    },
+    "quiz_antonyms": {
+      "correct": "扇動",
+      "distractors": ["調停", "取り成し", "和解"]
+    }
+  },
+  {
+    "id": "w183",
+    "word": "合致",
+    "reading": "がっち",
+    "meaning_short": "ぴったり一致すること",
+    "meaning_long": "条件や内容がよく合い、食い違いがないこと。",
+    "example": "分析結果は現場の感覚とも合致していた。",
+    "synonyms": ["一致", "符合"],
+    "antonyms": ["相違", "齟齬"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "関係"],
+    "quiz_synonyms": {
+      "correct": "符合",
+      "distractors": ["相違", "拡散", "停滞"]
+    },
+    "quiz_antonyms": {
+      "correct": "相違",
+      "distractors": ["一致", "符合", "適合"]
+    }
+  },
+  {
+    "id": "w184",
+    "word": "相違",
+    "reading": "そうい",
+    "meaning_short": "一致せず違っていること",
+    "meaning_long": "内容や認識が一致せず、違いがあること。",
+    "example": "仕様書と実装結果に相違が見つかった。",
+    "synonyms": ["差異", "不一致"],
+    "antonyms": ["合致", "一致"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "関係"],
+    "quiz_synonyms": {
+      "correct": "差異",
+      "distractors": ["一致", "収斂", "簡明"]
+    },
+    "quiz_antonyms": {
+      "correct": "一致",
+      "distractors": ["差異", "不一致", "齟齬"]
+    }
+  },
+  {
+    "id": "w185",
+    "word": "論拠",
+    "reading": "ろんきょ",
+    "meaning_short": "主張を支える理由や根拠",
+    "meaning_long": "意見や結論を正当化するための理由・根拠。",
+    "example": "主張の論拠を先に示すと説得力が増す。",
+    "synonyms": ["根拠", "立論の基盤"],
+    "antonyms": ["憶測", "臆断"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "議論"],
+    "quiz_synonyms": {
+      "correct": "根拠",
+      "distractors": ["憶測", "示唆", "婉曲"]
+    },
+    "quiz_antonyms": {
+      "correct": "憶測",
+      "distractors": ["根拠", "立論の基盤", "証拠"]
+    }
+  },
+  {
+    "id": "w186",
+    "word": "憶測",
+    "reading": "おくそく",
+    "meaning_short": "確証なく推測すること",
+    "meaning_long": "十分な根拠がないまま、あれこれ推し量ること。",
+    "example": "憶測で話を広げる前に事実を確認したい。",
+    "synonyms": ["推測", "臆断"],
+    "antonyms": ["実証", "確証"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "思考"],
+    "quiz_synonyms": {
+      "correct": "推測",
+      "distractors": ["実証", "精査", "吟味"]
+    },
+    "quiz_antonyms": {
+      "correct": "実証",
+      "distractors": ["推測", "臆断", "想像"]
+    }
+  },
+  {
+    "id": "w187",
+    "word": "余剰",
+    "reading": "よじょう",
+    "meaning_short": "必要量を超えて余ること",
+    "meaning_long": "必要な量や基準を超えて、余っている状態。",
+    "example": "在庫の余剰を防ぐため発注量を見直した。",
+    "synonyms": ["余り", "過剰分"],
+    "antonyms": ["不足", "欠乏"],
+    "difficulty": 2,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "余り",
+      "distractors": ["不足", "温存", "縮減"]
+    },
+    "quiz_antonyms": {
+      "correct": "不足",
+      "distractors": ["余り", "過剰分", "余裕"]
+    }
+  },
+  {
+    "id": "w188",
+    "word": "欠乏",
+    "reading": "けつぼう",
+    "meaning_short": "必要なものが不足すること",
+    "meaning_long": "必要な物資や資源などが十分になく不足すること。",
+    "example": "人材の欠乏が業務拡大の制約になっている。",
+    "synonyms": ["不足", "欠如"],
+    "antonyms": ["充足", "余剰"],
+    "difficulty": 3,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "欠如",
+      "distractors": ["充足", "拡充", "増強"]
+    },
+    "quiz_antonyms": {
+      "correct": "充足",
+      "distractors": ["不足", "欠如", "欠員"]
+    }
+  },
+  {
+    "id": "w189",
+    "word": "逼塞",
+    "reading": "ひっそく",
+    "meaning_short": "行き詰まってふさぎこむこと",
+    "meaning_long": "活路が見えず行き詰まり、勢いを失っている状態。",
+    "example": "新規案件が止まり、部署の雰囲気が逼塞していた。",
+    "synonyms": ["行き詰まり", "閉塞"],
+    "antonyms": ["打開", "活況"],
+    "difficulty": 5,
+    "tags": ["SPI頻出語彙", "語彙", "状態"],
+    "quiz_synonyms": {
+      "correct": "閉塞",
+      "distractors": ["活況", "闊達", "温厚"]
+    },
+    "quiz_antonyms": {
+      "correct": "打開",
+      "distractors": ["行き詰まり", "閉塞", "停滞"]
+    }
+  },
+  {
+    "id": "w190",
+    "word": "闊達",
+    "reading": "かったつ",
+    "meaning_short": "こせこせせずのびのびしている",
+    "meaning_long": "度量が広く、小さなことにこだわらずのびやかなさま。",
+    "example": "闊達な議論ができる場づくりを心がけている。",
+    "synonyms": ["のびやか", "大らか"],
+    "antonyms": ["狭量", "陰鬱"],
+    "difficulty": 4,
+    "tags": ["SPI頻出語彙", "語彙", "性質"],
+    "quiz_synonyms": {
+      "correct": "大らか",
+      "distractors": ["狭量", "頓着", "牽制"]
+    },
+    "quiz_antonyms": {
+      "correct": "狭量",
+      "distractors": ["のびやか", "大らか", "快活"]
+    }
+  }
+]
